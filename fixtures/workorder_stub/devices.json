@@ -1,0 +1,194 @@
+[
+  {
+    "device_id": "DEV-EXAMPLE-01",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-001",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "重症医学科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-02",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-002",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "急诊科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-03",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-003",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "新生儿科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-04",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-004",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "呼吸内科",
+    "purchase_batch": "LOT-EXAMPLE-02"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-05",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-005",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "心内科",
+    "purchase_batch": "LOT-EXAMPLE-02"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-06",
+    "model": "输注泵 P-300",
+    "serial": "SER-EXAMPLE-006",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "肿瘤科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-07",
+    "model": "呼吸机 V-100",
+    "serial": "SER-EXAMPLE-007",
+    "firmware": "FW-3.0.0-EXAMPLE",
+    "ward": "ICU",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-08",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-008",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "门诊部",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-09",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-009",
+    "firmware": "",
+    "ward": "检验科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-10",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-010",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "放射科",
+    "purchase_batch": ""
+  },
+  {
+    "device_id": "DEV-EXAMPLE-11",
+    "model": "监护仪 M-220",
+    "serial": "",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "待核实病区",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-12",
+    "model": "监护仪 M-220",
+    "serial": "",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "待核实病区",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-13",
+    "model": "监护仪 M-220",
+    "serial": "",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "待核实病区",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-14",
+    "model": "",
+    "serial": "SER-EXAMPLE-014",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "待核实病区",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-15",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-015",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "骨科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-16",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-016",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "消化内科",
+    "purchase_batch": "LOT-EXAMPLE-03"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-17",
+    "model": "监护仪 M-220B",
+    "serial": "SER-EXAMPLE-017",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "儿科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-18",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-018",
+    "firmware": "FW-2.2.0-EXAMPLE",
+    "ward": "手术室",
+    "purchase_batch": "LOT-EXAMPLE-03"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-19",
+    "model": "监护仪 M-220B",
+    "serial": "SER-EXAMPLE-019",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "供应室",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-20",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-020",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "神经内科",
+    "purchase_batch": "LOT-EXAMPLE-03"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-21",
+    "model": "监护仪 M-220B",
+    "serial": "SER-EXAMPLE-021",
+    "firmware": "FW-2.2.0-EXAMPLE",
+    "ward": "消化内科",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-22",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-022",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "儿科",
+    "purchase_batch": "LOT-EXAMPLE-03"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-23",
+    "model": "监护仪 M-220B",
+    "serial": "SER-EXAMPLE-023",
+    "firmware": "FW-2.1.4-EXAMPLE",
+    "ward": "手术室",
+    "purchase_batch": "LOT-EXAMPLE-01"
+  },
+  {
+    "device_id": "DEV-EXAMPLE-24",
+    "model": "监护仪 M-220",
+    "serial": "SER-EXAMPLE-024",
+    "firmware": "FW-2.2.0-EXAMPLE",
+    "ward": "供应室",
+    "purchase_batch": "LOT-EXAMPLE-03"
+  }
+]

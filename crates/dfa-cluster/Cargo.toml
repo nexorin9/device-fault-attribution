@@ -1,0 +1,18 @@
+[package]
+name = "dfa-cluster"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "医疗设备故障归因系统 · dfa-cluster 模块"
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+chrono.workspace = true
+sha2.workspace = true
+dfa-core.workspace = true
+dfa-config.workspace = true
+dfa-store.workspace = true
+dfa-registry.workspace = true

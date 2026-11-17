@@ -1,0 +1,47 @@
+# ── 凭据与本地环境 ──────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ── 依赖与构建产物 ──────────────────────────────────────────────
+venv/
+.venv/
+node_modules/
+target/
+dist/
+build/
+coverage/
+.next/
+.nuxt/
+Cargo.lock.orig
+
+# ── 运行时数据与日志 ────────────────────────────────────────────
+data/
+logs/
+out/
+corpus/                 # 离线评测 / 规模语料由 scripts/ 可重复生成
+tmp/
+temp/
+.cache/
+*.log
+*.tmp
+*.temp
+*.sqlite
+*.sqlite-journal
+*.db
+
+# ── 解释器缓存 ──────────────────────────────────────────────────
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── round 元数据（属编排层，不随项目发布）────────────────────────
+score.json
+progress.txt
+task.json
+
+# ── 明确保留：关注二维码必须随 README 入库 ──────────────────────
+!qrcode.jpg

@@ -1,0 +1,31 @@
+[
+  {
+    "team": "班组-A",
+    "capabilities": [
+      "diagnose",
+      "firmware_check",
+      "power_board_check",
+      "module_replace"
+    ]
+  },
+  {
+    "team": "班组-B",
+    "capabilities": [
+      "diagnose",
+      "firmware_check"
+    ]
+  },
+  {
+    "team": "班组-C",
+    "capabilities": [
+      "diagnose",
+      "power_board_check"
+    ]
+  },
+  {
+    "team": "班组-D",
+    "capabilities": [
+      "diagnose"
+    ]
+  }
+]

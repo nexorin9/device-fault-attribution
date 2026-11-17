@@ -1,0 +1,12 @@
+{
+  "seed": 20261109,
+  "public_records": 320,
+  "pairs": 120,
+  "positive_pairs": 60,
+  "negative_pairs": 60,
+  "corpus_lines": 240,
+  "colloquial_variant_source": "受控词表 + 固定口语模板（见 build_corpus.py CATEGORIES）",
+  "positive_rule": "同型号 + 同问题类别 + 同固件 + 同到货批次",
+  "negative_rule": "同型号不同问题类别，或同型号同类别不同到货批次",
+  "data_source": "openFDA device/recall + device/event (public API)"
+}

@@ -1,0 +1,10 @@
+{
+  "seed": 20261109,
+  "requested": 1200,
+  "actual_lines": 1200,
+  "distinct_models": 12,
+  "groups": "按型号 / 固件 / 到货批次分组",
+  "contains_missing_fields": true,
+  "contains_duplicate_rows": true,
+  "source": "corpus/labels.jsonl 的公开语料分布特征扩展"
+}

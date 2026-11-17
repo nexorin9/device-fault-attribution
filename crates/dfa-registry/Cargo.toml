@@ -1,0 +1,15 @@
+[package]
+name = "dfa-registry"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "医疗设备故障归因系统 · dfa-registry 模块"
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+chrono.workspace = true
+dfa-core.workspace = true
+dfa-store.workspace = true

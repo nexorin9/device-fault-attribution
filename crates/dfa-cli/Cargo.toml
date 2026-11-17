@@ -1,0 +1,27 @@
+[package]
+name = "dfa-cli"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "医疗设备故障归因系统 · dfa-cli 模块"
+
+[[bin]]
+name = "dfa-cli"
+path = "src/main.rs"
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+clap.workspace = true
+chrono.workspace = true
+dfa-core.workspace = true
+dfa-config.workspace = true
+dfa-store.workspace = true
+dfa-cluster.workspace = true
+dfa-registry.workspace = true
+dfa-workorder.workspace = true
+dfa-model.workspace = true
+dfa-ingest.workspace = true
+dfa-attribution.workspace = true
+dfa-desktop.workspace = true

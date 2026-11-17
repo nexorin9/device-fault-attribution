@@ -1,0 +1,2567 @@
+{
+ "source": "openFDA device/recall + device/event (public API)",
+ "note": "真实公开记录，未做任何编造；仅本地留存，不进仓库 data/ 目录",
+ "count": 320,
+ "records": [
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:27549:Z-0001-04:30043",
+   "model": "Sedecal SP-HF 4.0 Portable X-Ray System; Manufactured by SEDECAL, C/Pelya 9 Pol. Ind. Rio De Janeiro, 28110 Algete (Madr",
+   "problem": "A minimum source-skin-distance of less than 30 cm and not identifying the tube manufacturer on the tube housing label resulted in the SP-HF-4.0 Portable Systems not complying with the U.S. Federal performance standard.",
+   "firm": "Sedecal USA, Inc",
+   "date": "2003-10-27"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:29815:Z-0001-05:34578",
+   "model": "Aquasorb  Border, Hydrogel Wound Dressing with Polyurethane Film Border, 25 individual packets per case, Catalog # 46-51",
+   "problem": "Wound dressing failed to meet sterility specifications.",
+   "firm": "DeRoyal Wound Care",
+   "date": "2004-07-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:33407:Z-0001-06:41815",
+   "model": "Stackhouse FreedomAire Lens/Hood; a sterile disposable protective head garment for use with the FreedomAire Surgical Hel",
+   "problem": "The packaging may be compromised such that sterility of the hoods cannot be guaranteed.",
+   "firm": "VIASYS Med Systems",
+   "date": "2005-09-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:35637:Z-0001-2007:46524",
+   "model": "GE 4 inch Anterior Cervical Post, GE Part Number 1006385 or 1006385-NAV, GE Healthcare OEC Medical Systems (an accessory",
+   "problem": "Weld defect- the weld between the post body and the screw was not properly formed and can fail, even when minimal force is used.",
+   "firm": "GE OEC Medical Systems, Inc",
+   "date": "2006-05-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:38473:Z-0001-2008:53825",
+   "model": "Bio-logic System Corp --Telescoping Camera Pole Assembly (part number 585-CYBPSM and 580-VIDPOL) and assemblies (580IPCA",
+   "problem": "Bio-logic System Corp Camera Pole may weaken and detach at the base of the telescoping camera pole during transport causing pole to break at the welded base and fall.",
+   "firm": "Bio-Logic Systems Corp",
+   "date": "2007-07-26"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:50138:Z-0001-2009:74807",
+   "model": "NeuViz Dual Multi-Slice Computed Tomography (CT) Scanner System (software).\n\nWhole body x-ray computed tomography scanne",
+   "problem": "An issue associated with the \"Timed Scan\" application was found.  The system does not wait for the programmed time interval and starts the x-ray after selection of the scan button when certain criteria is met.",
+   "firm": "Philips Medical Systems North America Co.   Phillips",
+   "date": "2008-04-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:53426:Z-0001-2010:85486",
+   "model": "Penumbra Neuron Delivery Catheter 070,  percutaneous catheter, catalog numbers PND6F0701058, PND6F070956, PND6F0701058M,",
+   "problem": "Failure-- product can kink or ovalize, which may result in difficulty in catheter advancement or delivery of other devices and damage to catheter, which could lead to patient injury or death as a result of portions being retained in the patient.",
+   "firm": "Penumbra Inc.",
+   "date": "2009-09-22"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:56425:Z-0001-2011:93646",
+   "model": "Baxter Colleague Single Channel Volumetric Infusion Pumps. Baxter Healthcare Corporation, Medication Delivery Division. ",
+   "problem": "The FDA sent a letter to Baxter on April 30, 2010, ordering the company to recall and destroy all models of its Colleague Volumetric Infusion Pumps currently in use in the United States.  FDA determined that this action is necessary, as Baxter has failed to adequately correct, within a reasonable timeframe, the deficiencies in the Colleague pumps still in use.  This recall is a consolidation of al",
+   "firm": "Baxter Healthcare Corp.",
+   "date": "2010-08-04"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:57858:Z-0001-2012:97591",
+   "model": "Probe, Tactile, Left, ASM, Long, \nPart #962009S, \nMedtronic Navigation,\nLouisville, CO 80027.\n\nTrackable hand held instr",
+   "problem": "Distal end of tactile probe may break off during use.",
+   "firm": "Medtronic Navigation, Inc",
+   "date": "2011-01-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:62773:Z-0001-2013:111690",
+   "model": "MIRS for MATRIX Spine System.  Minimally Invasive Reduction Screw (MIRS) for percutaneous instrumentation of the thoraco",
+   "problem": "Synthes is initiating a Medical Device Labeling Correction following a detailed review of the current labeling in response to reported complaints.  Synthes has identified technique measures and has updated the labeling associated with this system.  The labeling reflects updated technique recommendations and emphasizes the importance of avoiding rod mis-alignment.",
+   "firm": "Synthes USA HQ, Inc.",
+   "date": "2012-06-18"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:66365:Z-0001-2014:122158",
+   "model": "Ultima OPCAB System, Sterile, Rx Only, \n\nProduct Usage:\nIntended for use during performance of minimally invasive cardia",
+   "problem": "MAQUET has identified a potential issue with the ULTIMA OPCAB (part numbers OM-2003S & OM-2001D).  Labeling for the 2 blade lots had been incorrectly applied.  The standard blades from Lot #25052176 were incorrectly labeled as deep blades, and the 20 deep blades from Lot #25052200 were incorrectly labeled as standard blades.",
+   "firm": "Maquet Cardiovascular, LLC",
+   "date": "2013-09-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:69192:Z-0001-2015:129828",
+   "model": "Philips Expression MR200 MRI Patient Monitoring System Model 866120",
+   "problem": "During production, excess metal (aluminum) debris was found stuck to the cling plastic that covers the device's pole assembly. The metallic debris could affect system performance due to the potential for a failure to power up or loss of power. This could result in the loss of monitoring and a delay in diagnosis of the patient.",
+   "firm": "Invivo Corporation",
+   "date": "2014-09-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:71987:Z-0001-2016:139535",
+   "model": "Histolock  Resection Device, US Endoscopy.  \nAn electrosurgical device designed to be used to endoscopically grasp, diss",
+   "problem": "The company has determined the sterility cannot be assured for the affected lot.",
+   "firm": "US Endoscopy Group Inc",
+   "date": "2015-07-14"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:75118:Z-0001-2017:149395",
+   "model": "CDI H/S Cuvette\n\nThe intended use for the CDI H IS Cuvette is as follows: The CDI H/S Cuvettes are intended for use with",
+   "problem": "Terumo Cardiovascular Systems (Terumo CVS) has received complaints of the CDI System 500 monitor displaying the H/S DISCONNECT AT CUVETTE error message when the CDI H/S Cuvette does not make a proper connection to the CDI H/S Probe. In this situation, blood parameter values for HCT, Hgb, and SO2 do not display.",
+   "firm": "Terumo Cardiovascular Systems Corporation",
+   "date": "2015-12-11"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:78082:Z-0001-2018:158631",
+   "model": "Carl Zeiss INTRABEAM PRS 500, product #304534-0000-500.  The firm name on the label is Carl Zeiss Meditec AG, Jena, Germ",
+   "problem": "The device had an incorrect printed calibration value on the calibration certificate.",
+   "firm": "Carl Zeiss Meditec AG",
+   "date": "2017-08-30"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:80313:Z-0001-2019:165169",
+   "model": "Journey BCS Knee CoCr Femoral Components, Catalog Numbers:\n74021210, 74021211, 74021212, 74021213, 74021214, 74021215, 7",
+   "problem": "The data in the National Joint Registry of England, Wales and Northern Ireland (NJREWNI) and Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR) indicate that the first generation JOURNEY BCS Knee System has a revision rate over 1.5 times the primary total knee arthroplasty device class average revision rates reported in those registries.",
+   "firm": "Smith & Nephew, Inc.",
+   "date": "2018-06-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:83509:Z-0001-2020:175552",
+   "model": "SECURE EVA - DUAL CHAMBER CONTAINER With Screw Connectors, 1500mL, (legless) REF 66615 - Product Usage: For use in an in",
+   "problem": "Potential for leaking product",
+   "firm": "The Metrix Company",
+   "date": "2018-09-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:86214:Z-0001-2021:183095",
+   "model": "Endo GIA Auto Suture Gray Universal Articulating Loading Unit 30 mm - 2.0 mm, Item Code 030450 - Product Usage: The Endo",
+   "problem": "The device staples may not properly form upon application preventing adequate hemostasis.  Use of a product with this assembly error may result in incomplete staple formation.",
+   "firm": "Covidien, LP",
+   "date": "2020-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:88735:Z-0001-2022:189418",
+   "model": "RAPTAR Laser Range Finders",
+   "problem": "RAPTAR units are capable of being field modified to enable the use of the higher\npower visible and IR laser pointers and the IR Illuminator.",
+   "firm": "Potomac River Group, Corp.",
+   "date": "2021-04-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:90773:Z-0001-2023:195700",
+   "model": "Jiangsu Well Biotech Co.,Ltd. AND SDI LABS COVID-19 Ag Rapid Test Device - Cat#: CO-02",
+   "problem": "Distribution of COVID-19 Ag Rapid Test kits in the U.S. without an Emergency Use Authorization, or a Pre-Market Approval or Clearance.",
+   "firm": "Jiangsu Well Biotech Co.,Ltd.",
+   "date": "2022-08-09"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:93014:Z-0001-2024:203280",
+   "model": "Arrow ErgoPack, Pressure Injectable Arrowg+ard Blue Advance Two-Lumen PICC pre-loaded with Arrow VPS Precision Stylet, R",
+   "problem": "This recall has been initiated due to reports that the product code and product name were incorrectly listed on the lidstock of affected kits.",
+   "firm": "ARROW INTERNATIONAL Inc.",
+   "date": "2023-08-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:95121:Z-0001-2025:209491",
+   "model": "MiniMed 630G Insulin Pump, REF: MMT-1515, MMT-1714, MMT-1715, MMT-1754, MMT-1755;\nMiniMed 700G Insulin Pump, REF: MMT-18",
+   "problem": "Insulin pumps that have been dropped, bumped, or experienced physical impact may have damage to internal electrical components, which may cause reduced pump battery life. Since the defect reduces the battery life overall, it shortens the time between low battery alarms and increases the frequency with which the user must insert a new battery. Further, the defect may also deliver the low battery al",
+   "firm": "Medtronic MiniMed, Inc.",
+   "date": "2024-07-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:97502:Z-0001-2026:215805",
+   "model": "Allura Xper FD10C;\nModel Number: 722001;\nAssociated 510(k)s: K102005, K130638, K130842, K133292, K141979, K162859, K1615",
+   "problem": "The BIOS battery may deplete faster than initially anticipated during the design phase. When the battery is depleted, the start-up process of the system will be halted, and the system will not start. No user messages are shown before the battery is low on power or depleted.",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "date": "2025-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:99843:Z-0001-2027:222721",
+   "model": "HemoslL AcuStar HIT-lgG(PF-4). Part Number: 0009800127. in vitro diagnostic",
+   "problem": "Potential for invalid calibration curve or negative mean bias of up to 47% with patient samples.",
+   "firm": "Instrumentation Laboratory",
+   "date": "2026-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:27393:Z-0002-04:29801",
+   "model": "Opti-Plast Balloon Dilatation Catheters",
+   "problem": "Product intended for distribution outside USA was distributed without premarket notification requirements being met.",
+   "firm": "Bard Peripheral Vascular Inc",
+   "date": "2003-08-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:29830:Z-0002-05:34618",
+   "model": "Automated Differential Cell Counter",
+   "problem": "Device can generate overestimated platelet results.",
+   "firm": "ABX Diagnostics Inc",
+   "date": "2004-08-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:33407:Z-0002-06:42122",
+   "model": "Stackhouse Lens/Hood, Mark III Universal; a sterile disposable protective head garment for use with the Stackhouse Mark ",
+   "problem": "The packaging may be compromised such that sterility of the hoods cannot be guaranteed.",
+   "firm": "VIASYS Med Systems",
+   "date": "2005-09-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:35672:Z-0002-2007:46588",
+   "model": "Guidant Zoom Latitude Programming System, Model 3120, Programmer/Recorder/Monitor (PRM).  A portable cardiac rhythm mana",
+   "problem": "Final software load did not occur prior to shipment of select programmers.",
+   "firm": "Guidant Corporation",
+   "date": "2006-05-19"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:38369:Z-0002-2008:53495",
+   "model": "FP1000 Cell Preparation System Software versions 1.1 & 1.2, Part Number 624922, for in vitro diagnostic use.",
+   "problem": "Pressure (from recapped tubes) or vacuum (from under-filled short-draw tubes) will cause inaccurate results if not properly vented.",
+   "firm": "Beckman Coulter Inc",
+   "date": "2007-02-22"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:53157:Z-0002-2009:84800",
+   "model": "Revolution XR/d system control room PC model 5117866-2 with Software collector 5115434",
+   "problem": "GE Healthcare has recently become aware of a potential risk of observing a blank image after exposure on\nRevolution XR/d systems equipped with HP 8200 PC user consoles that may impact patient safety.\n\nIt was reported that images acquired with off-center collimation for extremities with the\nposition selected as Digits to front or Digits to back are displayed as blank. Investigation into\nth",
+   "firm": "GE Medical Systems, LLC",
+   "date": "2008-02-14"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:52834:Z-0002-2010:84106",
+   "model": "Edwards Lifesciences Fogaty Occlusion Catheter Ref # 62080822F.\n\nThe product is intended for use in Temporary Vessel Occ",
+   "problem": "Several complaints were the two parts of the tubular package became loose under the shrink wrap that holds the DFU on the packaging tube.",
+   "firm": "Edwards Lifesciences, Llc",
+   "date": "2009-06-22"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:56425:Z-0002-2011:93647",
+   "model": "Baxter Colleague Triple Channel Volumetric Infusion Pumps. Baxter Healthcare Corporation, Medication Delivery Division. ",
+   "problem": "The FDA sent a letter to Baxter on April 30, 2010, ordering the company to recall and destroy all models of its Colleague Volumetric Infusion Pumps currently in use in the United States.  FDA determined that this action is necessary, as Baxter has failed to adequately correct, within a reasonable timeframe, the deficiencies in the Colleague pumps still in use.  This recall is a consolidation of al",
+   "firm": "Baxter Healthcare Corp.",
+   "date": "2010-08-04"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:57858:Z-0002-2012:97818",
+   "model": "Probe, Tactile, Right, ASM, Long, \nPart #962011S,\nMedtronic Navigation, \nLouisville, CO 80027.\n\nTrackable hand held inst",
+   "problem": "Distal end of tactile probe may break off during use.",
+   "firm": "Medtronic Navigation, Inc",
+   "date": "2011-01-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:63134:Z-0002-2013:112657",
+   "model": "COULTER PrepPlus, Part Number: 286600\n\nProduct Usage:  The COULTER PrepPlus, is a microprocessor-controlled pipetting an",
+   "problem": "The recall was initiated because Beckman Coulter has confirmed that the Coulter PrepPlus may experience intermittant reagent level sense failures where the instrument may not produce a warning that a reagent vial is low or out of reagent.",
+   "firm": "Beckman Coulter Inc.",
+   "date": "2012-01-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:66189:Z-0002-2014:121688",
+   "model": "King LTS-D Oropharyngeal Airways\n\n\nProduct Usage:  The King LTS-D is intended for use in adult patients (in excess of 25",
+   "problem": "On December 13, 2012, King Systems initiated a voluntary recall of one (1) case(s) (5) individual products) from one (1) lot [(IV1V3) 62 cases, 310 products]of King LTSD Oropharyngeal Airways because the package label indicated that the airway was a size 5 when in fact the airway in the package was a size 4. When King manufacturers a lot, all of the components are the same size, part number etc. I",
+   "firm": "King Systems Corp.",
+   "date": "0012-12-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:69258:Z-0002-2015:130113",
+   "model": "Siemens Ysio Max system\r\nThe Ysio Max is a radiographic system used in hospitals, clinics, and medical practices. Ysio M",
+   "problem": "Two malfunctions posing potential risk to patients were identified with Siemens Ysio Max, AXIOM Luminos dRF Max, Uroskop Omnia Max, and Luminos Agile Max systems with a specific set of serial numbers that will cause lost images due to an automatic Radiology Information System (RIS) worklist update, thus causing examinations to be repeated. Image label may also be displayed incorrectly after images",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "date": "2014-09-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:72167:Z-0002-2016:140077",
+   "model": "Carto 3 EP Navigation System. Electro physiology system which views of the electrical activity of the heart through real",
+   "problem": "Image disappeared from the cardiac ultrasound system when the CARTO 3 EP Navigation System needed restarting while the patient was experiencing pericardial effusion.  Affects the CARTOSOUND Module of the CARTO 3 EP Navigation System when used with the SOUNDSTAR eco 8F and 10F Diagnostic Ultrasound Catheters. New precautions added.",
+   "firm": "Biosense Webster, Inc.",
+   "date": "2015-09-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:75127:Z-0002-2017:149424",
+   "model": "Merit Inflation Syringe Kit. Catalog Number KOS-02857",
+   "problem": "Merit Medical Systems, Inc. announces a voluntary field action for Merit Inflation Syring Kit due to unit labels missing required device labeling information.",
+   "firm": "Merit Medical Systems, Inc.",
+   "date": "2016-08-25"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:78047:Z-0002-2018:158557",
+   "model": "Human Alpha-1-Antitrypsin Kit for use on the SPAPlus analyser, Product #NK034.S.  The firm name on the label is The Bind",
+   "problem": "The high control for the kit is recovering low and may be out of range for assigned values.",
+   "firm": "The Binding Site Group, Ltd.",
+   "date": "2017-08-23"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:80313:Z-0002-2019:165170",
+   "model": "JOURNEY BCS OXINIUM Knee Femoral Components, Catalog Numbers:  74021110, 74021111, 74021112, 74021113, 74021114, 7402111",
+   "problem": "The data in the National Joint Registry of England, Wales and Northern Ireland (NJREWNI) and Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR) indicate that the first generation JOURNEY BCS Knee System has a revision rate over 1.5 times the primary total knee arthroplasty device class average revision rates reported in those registries.",
+   "firm": "Smith & Nephew, Inc.",
+   "date": "2018-06-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:83509:Z-0002-2020:176398",
+   "model": "SECURE EVA - DUAL CHAMBER CONTAINER With Screw Connectors, 3000mL, (legless) REF 66630 - Product Usage: For use in an in",
+   "problem": "Potential for leaking product",
+   "firm": "The Metrix Company",
+   "date": "2018-09-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:86214:Z-0002-2021:183096",
+   "model": "Endo GIA Auto Suture Universal Articulating Loading Unit 30 mm - 2.5 mm, Item Code 030451 - Product Usage: The Endo GIA ",
+   "problem": "The device staples may not properly form upon application preventing adequate hemostasis.  Use of a product with this assembly error may result in incomplete staple formation.",
+   "firm": "Covidien, LP",
+   "date": "2020-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:88473:Z-0002-2022:188744",
+   "model": "REF TIN3015, 15G x 79 mm Bone Marrow Aspiration/Intraosseous Infusion Needle, For Single Use Only, Sterile EO, UDI: 1088",
+   "problem": "Potential for needle protector to become fully dislodge exposing infusion needle which could result in needle stick.",
+   "firm": "Bard Peripheral Vascular Inc",
+   "date": "2021-07-27"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:90845:Z-0002-2023:196036",
+   "model": "Ivenix Infusion System (IIS), LVP Software; LVP-SW-0004\n\nversion 5.2.0",
+   "problem": "The display screen may become frozen and unresponsive to user input, triggering an alarm that is evidenced by a buzzer sound and flashing red LEDs as a secondary notification. However, as the screen goes blank it does not indicate an alarm condition or respond. This issue leads to temporary cessation of flow of a medication or fluid, requiring immediate intervention by the clinician.",
+   "firm": "Fresenius Kabi USA, LLC",
+   "date": "2022-09-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:93014:Z-0002-2024:203281",
+   "model": "Arrow ErgoPack Complete, Pressure Injectable Arrowg+ard Blue Plus Four-Lumen CVC, REF CDC-42854- PCN1A; catheter, intrav",
+   "problem": "This recall has been initiated due to reports that the product code and product name were incorrectly listed on the lidstock of affected kits.",
+   "firm": "ARROW INTERNATIONAL Inc.",
+   "date": "2023-08-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:95121:Z-0002-2025:209613",
+   "model": "MiniMed 620G Insulin Pump, REF: MMT-1510, MMT-1710, MMT-1750;\nMiniMed 630G Insulin Pump, REF: MMT-1515, MMT-1714, MMT-17",
+   "problem": "Insulin pumps that have been dropped, bumped, or experienced physical impact may have damage to internal electrical components, which may cause reduced pump battery life. Since the defect reduces the battery life overall, it shortens the time between low battery alarms and increases the frequency with which the user must insert a new battery. Further, the defect may also deliver the low battery al",
+   "firm": "Medtronic MiniMed, Inc.",
+   "date": "2024-07-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:97502:Z-0002-2026:215806",
+   "model": "Allura Xper FD10;\nModel Numbers: (1) 722003, (2) 722010, (3) 722026;\nAssociated 510(k)s: K102005, K130638, K130842, K133",
+   "problem": "The BIOS battery may deplete faster than initially anticipated during the design phase. When the battery is depleted, the start-up process of the system will be halted, and the system will not start. No user messages are shown before the battery is low on power or depleted.",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "date": "2025-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:99843:Z-0002-2027:222722",
+   "model": "HemoslL AcuStar HIT-lgG(PF-4). Part Number: 0009802028. in vitro diagnostic (OUS only)",
+   "problem": "Potential for invalid calibration curve or negative mean bias of up to 47% with patient samples.",
+   "firm": "Instrumentation Laboratory",
+   "date": "2026-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:25862:Z-0003-04:26623",
+   "model": "Liberty brand Insulin Syringes for use with U-100 insulin, 1/2 cc X 30G X 5/16'' syringes",
+   "problem": "The correct individual insulin syringe labeling size and guage may be different than what is on the incorrectly labeled shelf box .",
+   "firm": "Liberty Medical Supplies",
+   "date": "2003-02-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:29830:Z-0003-05:34628",
+   "model": "Automated Differential Cell Counter",
+   "problem": "Device can generate overestimated platelet results.",
+   "firm": "ABX Diagnostics Inc",
+   "date": "2004-08-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:33598:Z-0003-06:42138",
+   "model": "D-Stat Dry Hemostatic Bandage. The product is an adhesive bandage.",
+   "problem": "package sealing defect - product may not be sterile",
+   "firm": "B. Braun Medical, Inc.",
+   "date": "2005-09-15"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:36018:Z-0003-2007:47623",
+   "model": "Axis-Shield DIASTAT Anti-CCP test kit, (code FCCP200)",
+   "problem": "The preservative sodium azide used in the Kit Negative Control (part number FCOM175) was at the wrong concentration - the Kit Negative Control contains 0.2% sodium azide rather than the intended 0.1%.",
+   "firm": "Axis-Shield Diagnostics, Ltd.",
+   "date": "2005-11-11"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:38430:Z-0003-2008:53649",
+   "model": "BreathTek Urea Hydrolysis Rate Calculation CD, Version 1.3.5 - January 1,'03, in vitro diagnostic. Meretek Diagnostics, ",
+   "problem": "Diagnostic test kit for Helicobacter pylori was distributed for adult and pediatric use, but was not approved for pediatric use.",
+   "firm": "Meretek Diagnostics, Inc.",
+   "date": "2007-05-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:53158:Z-0003-2009:84808",
+   "model": "Revolution XR/d systems with control room PC model 5117866-2 with Software collector 5194381. GE Healthcare, 3000 North ",
+   "problem": "GE Healthcare has recently become aware of an error in the generator software on the Revolution XR/d\nconfigured with HP 8200 PC consoles that reports a mAs reading that is higher than is actually exposed to patients.",
+   "firm": "GE Medical Systems, LLC",
+   "date": "2008-02-14"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:52990:Z-0003-2010:84415",
+   "model": "HeartStart MRx (M3535A/M3536A) Defibrillator/Monitor.\n\nThe HeartStart MRx/MRxE is for use for the termination of ventric",
+   "problem": "incorrect default configuration settings, insufficient\nbattery power as the user may not be alerted that no battery is installed or that a low battery condition exists prior to disconnecting from AC or DC power",
+   "firm": "Philips Healthcare Inc.",
+   "date": "2009-08-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:56411:Z-0003-2011:93546",
+   "model": "BVI 9600 Bladder Volume Instrument, Aorta Scan Mode\nThe BladderScan BVI 9600 with AortaScan Mode is a user-selectable, d",
+   "problem": "The BladderScan BVI 9600 with AortaScan devices may experience the loss of a factory installed software configuration file which results in a loss of the aorta measurement function.",
+   "firm": "Verathon, Inc.",
+   "date": "2010-08-23"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:59979:Z-0003-2012:104183",
+   "model": "Cochlear Nucleus CI512 Cochlear Implant, REF Z209051, New with Nucleus 5, Sterile EO, Made in Australia, Cochlear Ltd 14",
+   "problem": "Cochlear implant may shut down and cease to function.",
+   "firm": "Cochlear Americas Inc.",
+   "date": "2011-09-16"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:63152:Z-0003-2013:112693",
+   "model": "IMMAGE Immunochemistry Systems Rheumatoid Factor (RF) Reagent, PN 447070\n\nThe IMMAGE Immunochemistry Systems Rheumatoid ",
+   "problem": "The recall was initiated because Beckman Coulter has confirmed customer reports of QC shifts, lot-to-lot variation, and an increase in the percent of patient samples recovering >20 IU/mL using the Lots# M012376 and M101865 of IMMAGE RF reagent.  The lots identified for the RF reagent might produce false abnormal results.",
+   "firm": "Beckman Coulter Inc.",
+   "date": "2012-01-27"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:66026:Z-0003-2014:121288",
+   "model": "Cordis ADROIT 6F Guiding Catheter\n\nProduct Usage:\nFor intravascular introduction of interventional and/or diagnostic dev",
+   "problem": "Due to a labeling error related to the conversion of the inner diameter of the catheter from inches to millimeters.  The English dimension is correct and is the primary dimension.",
+   "firm": "Cordis Corporation",
+   "date": "2013-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:69258:Z-0003-2015:130370",
+   "model": "Siemens  AXIOM Luminos dRF Max systems \r\nThe Axiom Luminos dRF is intended to be used as a universal diagnostic imaging ",
+   "problem": "Two malfunctions posing potential risk to patients were identified with Siemens Ysio Max, AXIOM Luminos dRF Max, Uroskop Omnia Max, and Luminos Agile Max systems with a specific set of serial numbers that will cause lost images due to an automatic Radiology Information System (RIS) worklist update, thus causing examinations to be repeated. Image label may also be displayed incorrectly after images",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "date": "2014-09-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:72167:Z-0003-2016:140078",
+   "model": "SOUNDSTAR eco 8F and 10F Diagnostic Ultrasound Catheters.  For intra-cardiac and intra-luminal visualization of cardiac ",
+   "problem": "Image disappeared from the cardiac ultrasound system when the CARTO 3 EP Navigation System needed restarting while the patient was experiencing pericardial effusion.  Affects the CARTOSOUND Module of the CARTO 3 EP Navigation System when used with the SOUNDSTAR eco 8F and 10F Diagnostic Ultrasound Catheters. New precautions added.",
+   "firm": "Biosense Webster, Inc.",
+   "date": "2015-09-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:75235:Z-0003-2017:149732",
+   "model": "Vanguard 360 Revision Knee System\nKnee prostheses",
+   "problem": "The drill bit used to drill the hex pre-drilled hole in the screw head of the Tibial Augment Bolts included in the Vanguard 360 Revision Knee System was larger than allowable per the process specification.  As a result, the hex geometry can still be visible, but there are radial cuts into the hex flat. Therefore, when the bolt is inserted into the augment, the screwdriver is unable to catch on the",
+   "firm": "Zimmer Biomet, Inc.",
+   "date": "2016-08-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:78068:Z-0003-2018:158602",
+   "model": "Fortify VR - Model Numbers: CD1231-40 and CD1231-40Q; Fortify ST VR, Model Numbers: CD1241-40 and CD1241-40Q; Fortify As",
+   "problem": "The device may exhibit premature battery depletion.",
+   "firm": "St Jude Medical Inc.",
+   "date": "2017-08-28"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:80313:Z-0003-2019:165171",
+   "model": "JOURNEY BCS Knee Conventional Polyethylene Inserts:  74023111, 74023112, 74023113, 74023114, 74023115, 74023116, 7402311",
+   "problem": "The data in the National Joint Registry of England, Wales and Northern Ireland (NJREWNI) and Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR) indicate that the first generation JOURNEY BCS Knee System has a revision rate over 1.5 times the primary total knee arthroplasty device class average revision rates reported in those registries.",
+   "firm": "Smith & Nephew, Inc.",
+   "date": "2018-06-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:83509:Z-0003-2020:176399",
+   "model": "SECURE EVA - DUAL CHAMBER CONTAINER With Screw Connectors, 4000mL, (legless) REF 66640 - Product Usage: For use in an in",
+   "problem": "Potential for leaking product",
+   "firm": "The Metrix Company",
+   "date": "2018-09-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:86214:Z-0003-2021:183097",
+   "model": "Endo GIA Auto Suture Universal Articulating Loading Unit 30 mm - 3.5 mm, Item Code 030452 - Product Usage: The Endo GIA ",
+   "problem": "The device staples may not properly form upon application preventing adequate hemostasis.  Use of a product with this assembly error may result in incomplete staple formation.",
+   "firm": "Covidien, LP",
+   "date": "2020-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:88685:Z-0003-2022:189291",
+   "model": "Medtronic Bio-Medicus Insertion Kits, Model number 96553, Pediatric Insertion Kit, Sterile; and Model number 96551, Veno",
+   "problem": "There was a label mix-up between two model numbers resulting in the incorrect guidewire being contained in the kits for both model numbers.",
+   "firm": "Medtronic Perfusion Systems",
+   "date": "2021-09-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:90860:Z-0003-2023:196079",
+   "model": "The product is a handheld ultraviolet-C germicidal wand and contains two, narrow-diameter, tubular lamps with a peak emi",
+   "problem": "Excessive ultraviolet-C radiation",
+   "firm": "IN MY BATHROOM LLC",
+   "date": "2022-01-27"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:93014:Z-0003-2024:203282",
+   "model": "Arrow Pressure Injectable Arrowg+ard Blue Plus Four-Lumen CVC, REF CDC-45854-P1A; catheter, intravascular, therapeutic, ",
+   "problem": "This recall has been initiated due to reports that the product code and product name were incorrectly listed on the lidstock of affected kits.",
+   "firm": "ARROW INTERNATIONAL Inc.",
+   "date": "2023-08-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:95121:Z-0003-2025:209614",
+   "model": "MiniMed Insulin Pump Device. MiniMed 670G, REF: MMT-1580, MMT-1581, MMT-1582, MMT-1780, MMT-1781, MMT-1782, MMT-1740, MM",
+   "problem": "Insulin pumps that have been dropped, bumped, or experienced physical impact may have damage to internal electrical components, which may cause reduced pump battery life. Since the defect reduces the battery life overall, it shortens the time between low battery alarms and increases the frequency with which the user must insert a new battery. Further, the defect may also deliver the low battery al",
+   "firm": "Medtronic MiniMed, Inc.",
+   "date": "2024-07-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:97502:Z-0003-2026:215807",
+   "model": "Allura Xper FD10/10;\nModel Numbers: (1) 722005, (2) 722011, (3) 722027;\nAssociated 510(k)s: K102005, K130638, K130842, K",
+   "problem": "The BIOS battery may deplete faster than initially anticipated during the design phase. When the battery is depleted, the start-up process of the system will be halted, and the system will not start. No user messages are shown before the battery is low on power or depleted.",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "date": "2025-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:99676:Z-0003-2027:222154",
+   "model": "Brand Name: Expressaire\nProduct Name: DISPOSABLE TOURNIQUET CUFF, 30\" X 4\" 1-LINE (CS 18) WHITE\nModel/Catalog Number: 55",
+   "problem": "Due to incorrect expiration date on product manufactured between September 2016 to March 2023.  Products are labeled with a 10 year shelf life.  The correct validated shelf life is 5 years.",
+   "firm": "ASP Global, LLC.",
+   "date": "2026-08-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:25862:Z-0004-04:26624",
+   "model": "Liberty brand Insulin Syringes for use with U-100 insulin, 1 cc X 29G X 1/2 '' insulin syringes",
+   "problem": "The correct individual insulin syringe labeling size and guage may be different than what is on the incorrectly labeled shelf box .",
+   "firm": "Liberty Medical Supplies",
+   "date": "2003-02-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:29925:Z-0004-05:34793",
+   "model": "AmeriWater Portable RO+, model numbers MR01 and MR02.  The device is a reverse osmosis system for dialysis.",
+   "problem": "The device has a potential risk of failure caused by faulty wiring within the electrical component.  The wires can overheat and eventually break in two.",
+   "firm": "Ameriwater Inc",
+   "date": "2004-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:32642:Z-0004-06:40482",
+   "model": "Hard shell carry case for the LIFEPAK 500 AED.",
+   "problem": "Some hard shell carry case for  LIFEPAK 500 and LIFEPAK CR Plus automated external defibrillators may have blocked pressure vent which may make it difficult to open the case after a sudden decrease in altitude (such as in aircraft landng or mountain descent).",
+   "firm": "Medtronic Emergency Response Systems, Inc.",
+   "date": "2005-07-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:36186:Z-0004-2007:48148",
+   "model": "Thoratec brand TLC-II Portable Ventricular Assist Device (VAD) Driver; Catalog No. 20010-2085-000\n\nDistributed and Manuf",
+   "problem": "Sticky Valve Disk- The valve disk has an increased tendency to stick during operation causing noise and pressure/vacuum alarms.",
+   "firm": "Thoratec  Corp",
+   "date": "2006-08-25"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:38449:Z-0004-2008:53791",
+   "model": "PathFinder Bone Drill-Awl-Tap, a part of the PathFinder spinal stablization system, Part Number 1156-50.",
+   "problem": "Tip of PathFinder surgical instrument broke during procedure.",
+   "firm": "Abbott Spine",
+   "date": "2007-07-18"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:49413:Z-0004-2009:73274",
+   "model": "One Touch Ultra Test Strips, part number 020-994-02, manufactured by LifeScan Inc, Milpitas, CA, 25 count.\n\nIntended to ",
+   "problem": "Products exceed inaccuracy threshold , with many complaints resulting from inaccurate low results.",
+   "firm": "Lifescan Inc",
+   "date": "2008-09-19"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:53491:Z-0004-2010:85632",
+   "model": "GE OEC 9900 Elite ESP \n\nTo produce mobile fluoroscopic images of human anatomy.",
+   "problem": "A software defect - may result in a false indication and warning on the OEC 9900 Workstation and C-arm display that the X-Ray tube Anode is over-heated.  This will also cause the displayed air kerma rate and cumulative air kerma to be inaccurate.",
+   "firm": "Ge Healthcare",
+   "date": "2009-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:56411:Z-0004-2011:93548",
+   "model": "AortaScan AMI 9700 \nThe AortaScan AMI 9700 is an ultrasound device that projects ultrasound energy into the mid-abdomen ",
+   "problem": "The AortaScan AMI 9700 devices may experience the loss of a factory installed software configuration file which results in a loss of the aorta measurement function.",
+   "firm": "Verathon, Inc.",
+   "date": "2010-08-23"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:58823:Z-0004-2012:100377",
+   "model": "Smiths Medical, CADD-Solis ambulatory infusion pumps, Models 2100, REF 21-2101-0200-51 and 2110, REF 21-2111-0100-51, Rx",
+   "problem": "Reports of non-delivery/ significant under-delivery of fluids when the CADD Medication Cassette Reservoir is not correctly latched to the pump.\n\nEXPANDED:  On 7/14/11, Smith Medical expanded this recall to include all consignees with affected pumps.",
+   "firm": "Smiths Medical ASD, Inc.",
+   "date": "2011-05-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:63241:Z-0004-2013:113089",
+   "model": "Male, 16Fr, Straight-tip Intermittent Urinary Catheters M16. The product is distributed individually or in intermediate ",
+   "problem": "The firm initiated the product recall because labeling on some of the intermediate boxes of catheters identify the contents to be M16C, a coud-tip catheters while the actual contents are M16Fr male, 16Fr, straight-tip catheters with the pouch and the case box labeled as M16Fr male, 16Fr, straight-tip catheters.",
+   "firm": "Cure Medical LLC",
+   "date": "2012-09-19"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:66357:Z-0004-2014:122141",
+   "model": "SHOPKO Waterproof Adhesive Pads Antibacterial.\n\nUsed for covering minor cuts, scrapes and burns.",
+   "problem": "No antibacterial bandages were packed in boxes labeled as antibacterial.",
+   "firm": "ASO, LLC",
+   "date": "2013-08-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:69258:Z-0004-2015:130371",
+   "model": "Siemens Uroskop Omnia Max system \r\nThe Uroskop Omnia is a solid state detector fluoroscopic X-Ray system, primarily for ",
+   "problem": "Two malfunctions posing potential risk to patients were identified with Siemens Ysio Max, AXIOM Luminos dRF Max, Uroskop Omnia Max, and Luminos Agile Max systems with a specific set of serial numbers that will cause lost images due to an automatic Radiology Information System (RIS) worklist update, thus causing examinations to be repeated. Image label may also be displayed incorrectly after images",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "date": "2014-09-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:71858:Z-0004-2016:139235",
+   "model": "Philips GoSafe Mobile Help Button; 7000MHB.\n\nPersonal Emergency Response System.",
+   "problem": "Irregular battery disconnection resulted in issues with Mobile Health Button (MHB) Charging.",
+   "firm": "Lifeline Systems, Incorporated",
+   "date": "2015-07-23"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:75181:Z-0004-2017:149595",
+   "model": "Skintact Electrodes for Defibrillation, DF29N.\n\nProduct Usage:\nMultifunction electrode for external defibrillation, paci",
+   "problem": "There is a risk that defibrillation electrodes model DF29N will be connected with the defibrillator Welch Allyn AED 10 only with delay or not at all.  This may cause a situation in which a patient, who is in a life threatening condition and requires a\ndefibrillation shock, cannot be treated in good time.",
+   "firm": "Leonhard Lang Medizintechnik GmbH",
+   "date": "2016-09-01"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:78068:Z-0004-2018:158629",
+   "model": "Unify, Model Numbers: CD3231-40 and CD3231-40Q; Unify Quadra, Model Numbers: CD3249-40 and CD3249-40Q; Unify Assura, Mod",
+   "problem": "The device may exhibit premature battery depletion.",
+   "firm": "St Jude Medical Inc.",
+   "date": "2017-08-28"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:81010:Z-0004-2019:167222",
+   "model": "TrueBeam Radiotherapy Delivery System version 2.0 and 2.5\nEDGE Radiotherapy Delivery System version 2.0 and 2.5\n\nProduct",
+   "problem": "Reports have been received of an anomaly that can result in a treatment without intended gating (respiratory tracking/monitoring). This issue occurs when a patient planned with gating is treated on more than one system.",
+   "firm": "Varian Medical Systems",
+   "date": "2018-08-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:83509:Z-0004-2020:176400",
+   "model": "SECURE EVA - DUAL CHAMBER CONTAINER with Manifold, 1500mL, REF 66616 (Canadian distribution) - Product Usage: For use in",
+   "problem": "Potential for leaking product",
+   "firm": "The Metrix Company",
+   "date": "2018-09-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:86214:Z-0004-2021:183098",
+   "model": "Endo GIA Auto Suture Universal Articulating Loading Unit 45 mm - 2.0 mm, Item Code 030453 - Product Usage: The Endo GIA ",
+   "problem": "The device staples may not properly form upon application preventing adequate hemostasis.  Use of a product with this assembly error may result in incomplete staple formation.",
+   "firm": "Covidien, LP",
+   "date": "2020-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:88626:Z-0004-2022:189113",
+   "model": "Alinity m SARS-CoV-2 Amp Kit (Emergency Use Authorization, US Assay) and Alinity m SARS-CoV-2 Application Specification ",
+   "problem": "There is a potential for false positive results.",
+   "firm": "Abbott Molecular, Inc.",
+   "date": "2021-09-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:90857:Z-0004-2023:196075",
+   "model": "MR Patient Care Portal 5000 (Desktop Unit), Model Number 453564792561\n\nThis is a component of product number 866162.",
+   "problem": "Device may intermittently fail to produce audio. Turning the unit off and on does not resolve the issue; disconnecting and reconnecting to AC power does not reliably resolve the issue.",
+   "firm": "Philips North America Llc",
+   "date": "2022-09-06"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:93014:Z-0004-2024:203283",
+   "model": "Arrow ErgoPack Pressure Injectable Arrowg+ard Blue Advance Three-Lumen PICC pre-loaded with Arrow VPS TipTracker Stylet,",
+   "problem": "This recall has been initiated due to reports that the product code and product name were incorrectly listed on the lidstock of affected kits.",
+   "firm": "ARROW INTERNATIONAL Inc.",
+   "date": "2023-08-10"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:95303:Z-0004-2025:209941",
+   "model": "Neo-Tee T-Piece Resuscitator. Part Numbers 1050805, 1050832. For pediatric emergency respiratory support.",
+   "problem": "Manual resuscitator circuit flow controller may come apart due to a missing manufacturing step.",
+   "firm": "Mercury Enterprises, Inc. dba Mercury Medical",
+   "date": "2024-08-30"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:97502:Z-0004-2026:215808",
+   "model": "Allura Xper FD10 OR Table;\nModel Numbers: 722033;\nAssociated 510(k)s: K102005, K130638, K130842, K133292, K141979, K1628",
+   "problem": "The BIOS battery may deplete faster than initially anticipated during the design phase. When the battery is depleted, the start-up process of the system will be halted, and the system will not start. No user messages are shown before the battery is low on power or depleted.",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "date": "2025-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:99676:Z-0004-2027:222155",
+   "model": "Brand Name: Expressaire\nProduct Name: DISPOSABLE TOURNIQUET CUFF, 30\" X 4\" 2-LINE (CS 18) WHITE\nModel/Catalog Number: 55",
+   "problem": "Due to incorrect expiration date on product manufactured between September 2016 to March 2023.  Products are labeled with a 10 year shelf life.  The correct validated shelf life is 5 years.",
+   "firm": "ASP Global, LLC.",
+   "date": "2026-08-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:25862:Z-0005-04:26625",
+   "model": "Liberty brand Insulin Syringes for use with U-100 insulin, 1/2  cc X 29G X 1/2 '' insulin syringes",
+   "problem": "The correct individual insulin syringe labeling size and guage may be different than what is on the incorrectly labeled shelf box .",
+   "firm": "Liberty Medical Supplies",
+   "date": "2003-02-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:29970:Z-0005-05:34888",
+   "model": "Mystic M-Style Mushroom Cup Mityvac Vacuum Assisted Delivery System\nProduct No: 10047",
+   "problem": "Product is mislabeled as a Mushroom Cap Vacuum but actually contains a Bell Style Assisted Delivery System",
+   "firm": "CooperSurgical, Inc.",
+   "date": "2004-08-17"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:32642:Z-0005-06:40483",
+   "model": "Hard shell carry case for the LIFEPAK CR Plus.",
+   "problem": "Some hard shell carry case for  LIFEPAK 500 and LIFEPAK CR Plus automated external defibrillators may have blocked pressure vent which may make it difficult to open the case after a sudden decrease in altitude (such as in aircraft landng or mountain descent).",
+   "firm": "Medtronic Emergency Response Systems, Inc.",
+   "date": "2005-07-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:36214:Z-0005-2007:48199",
+   "model": "Stryker Navigation System, eNlite System with Dell laptop computer model D800, Stryker # 7700-300-000.",
+   "problem": "A component of the device is a Dell laptop computer, which contains batteries that are under recall because they can overheat and cause a fire.",
+   "firm": "Stryker Instruments Div. of Stryker Corporation",
+   "date": "2006-09-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:38449:Z-0005-2008:53792",
+   "model": "PathFinder Bone Drill-Awl-Tap, a part of the PathFinder spinal stabilization system, Part Number 1156-60.",
+   "problem": "Tip of PathFinder surgical instrument broke during procedure.",
+   "firm": "Abbott Spine",
+   "date": "2007-07-18"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:53451:Z-0005-2009:85541",
+   "model": "Toshiba Infinix fluoroscopy DFP-8000D Digital Radiography System with version 3.40 or higher software.  Controller for I",
+   "problem": "Audible signal is not available at all times when using the HLC fluoroscopy mode.  Special means of activation are not designed in for selection of High Level Controls, as required by regulation.",
+   "firm": "Toshiba American Medical Systems Inc",
+   "date": "2008-09-29"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:53491:Z-0005-2010:85633",
+   "model": "GE OEC 9900 Elite GSP Fluoroscopes\n\nTo produce mobile fluoroscopic images of human anatomy.",
+   "problem": "A software defect - may result in a false indication and warning on the OEC 9900 Workstation and C-arm display that the X-Ray tube Anode is over-heated.  This will also cause the displayed air kerma rate and cumulative air kerma to be inaccurate.",
+   "firm": "Ge Healthcare",
+   "date": "2009-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:56411:Z-0005-2011:93550",
+   "model": "BladderScan BVM 9500\nThe BladderScan BVM 9500 is intended to project ultrasound energy through the lower abdomen to obta",
+   "problem": "The BladderScan BVM 9500 devices may experience the loss of a factory installed software configuration file which results in a loss of the aorta measurement function.",
+   "firm": "Verathon, Inc.",
+   "date": "2010-08-23"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:59139:Z-0005-2012:101351",
+   "model": "VNS Therapy Demipulse Model 103 Generator Cyberonics, Inc. Houston, Texas, Model 103 Generators are provided in a steril",
+   "problem": "An investigation was initiated based on a report from the field in which an Intensive Follow-up Indicator (IFI) message was unexpectedly received by a medical professional when using Model 250 version 8.0 software to interrogate a patient's Model 103 Generator.",
+   "firm": "Cyberonics, Inc",
+   "date": "2011-05-06"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:61780:Z-0005-2013:109065",
+   "model": "IR1200, IR1250(IR1200 Plus), 2020 and One Touch(R) Ping(R) Insulin Pump glucose management system.  \nThe device is inten",
+   "problem": "Wear of the keypad that may lead to damage such as tearing or peeling of the edge of the keypad from the pump.",
+   "firm": "Animas Corporation",
+   "date": "2012-07-16"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:64454:Z-0005-2014:116171",
+   "model": "The product is labeled in part \"***Surgical Laser Technologies, Inc. Montgomeryville, PA***SLT Fiber Delivery System***S",
+   "problem": "Firm became aware that some products within the specified lot may not have been sealed appropriately, thus compromising the sterile barrier.",
+   "firm": "PhotoMedex, Inc.",
+   "date": "2013-01-04"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:69258:Z-0005-2015:130372",
+   "model": "Siemens Luminos Agile Max system \r\nThe Luminos Agile is intended to be used as a universal imaging system for radiograph",
+   "problem": "Two malfunctions posing potential risk to patients were identified with Siemens Ysio Max, AXIOM Luminos dRF Max, Uroskop Omnia Max, and Luminos Agile Max systems with a specific set of serial numbers that will cause lost images due to an automatic Radiology Information System (RIS) worklist update, thus causing examinations to be repeated. Image label may also be displayed incorrectly after images",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "date": "2014-09-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:71763:Z-0005-2016:138996",
+   "model": "Celesteion PCA-9000A/2 PET/CT System",
+   "problem": "It was found that if specific operations are performed in multi-phase helical scanning, the acquired raw data may not be saved due to a software problem.",
+   "firm": "Toshiba American Medical Systems Inc",
+   "date": "2015-05-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:72001:Z-0005-2017:146078",
+   "model": "HeartWare Ventricular Assist System Controller \n\nProduct Usage:\nFor use as a bridge-to-cardiac transplantation in patien",
+   "problem": "Loose connector ports in controller body.",
+   "firm": "Heartware, Inc.",
+   "date": "2016-06-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:78079:Z-0005-2018:158627",
+   "model": "Electric Wheelchairs:\na) C300 CORPUS II\nb) C350 CORPUS II\nc) C400 CORPUS II\nd) C400 CORPUS II LR\ne) C500 CORPUS II \nf) C",
+   "problem": "There is a potential failure of the top plate assembly, which is the component that connects the seating system of the wheelchair to the base.",
+   "firm": "Permobil, Ab",
+   "date": "2017-09-01"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:81010:Z-0005-2019:167279",
+   "model": "VitalBeam Radiotherapy Delivery System Version 2.5\n\nProduct Usage:  The VitalBeam delivery systems are intended to provi",
+   "problem": "Reports have been received of an anomaly that can result in a treatment without intended gating (respiratory tracking/monitoring). This issue occurs when a patient planned with gating is treated on more than one system.",
+   "firm": "Varian Medical Systems",
+   "date": "2018-08-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:83509:Z-0005-2020:176401",
+   "model": "SECURE EVA - DUAL CHAMBER CONTAINER with Manifold, 3000mL, REF 66631 (Canadian distribution) - Product Usage: For use in",
+   "problem": "Potential for leaking product",
+   "firm": "The Metrix Company",
+   "date": "2018-09-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:86214:Z-0005-2021:183099",
+   "model": "Endo GIA Auto Suture Universal Loading Unit 45 mm - 2.5mm, Item Code 030454 - Product Usage: The Endo GIA  universal sta",
+   "problem": "The device staples may not properly form upon application preventing adequate hemostasis.  Use of a product with this assembly error may result in incomplete staple formation.",
+   "firm": "Covidien, LP",
+   "date": "2020-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:88626:Z-0005-2022:189114",
+   "model": "Alinity m Resp-4-Plex AMP Kit (Emergency Use Authorization, US Assay) and Alinity m Resp-4-Plex Application Specificatio",
+   "problem": "There is a potential for false positive results.",
+   "firm": "Abbott Molecular, Inc.",
+   "date": "2021-09-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:90772:Z-0005-2023:195698",
+   "model": "stryker EVOLVE,  Proline Stem, CoCr, Size: +2, O: 705mm, REF 496S275, Wright s EVOLVE Proline Plus Radial Head and Repai",
+   "problem": "The outer label does not match the device inside the package. The affected lot of EVOLVE Proline Stem 7.5mm +2 contains a size 9.5mm +4 stem, while the affected lot of EVOLVE Proline Stem 9.5mm +4 contains a size 7.5mm +2 stem.",
+   "firm": "Wright Medical Technology, Inc.",
+   "date": "2022-08-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:92906:Z-0005-2024:202861",
+   "model": "10ML SYRINGE LUER LOCK W/OUT NEEDLE, Part Number 15-R010-0, 100 per box, 12 boxes to a case",
+   "problem": "There is a potential for blood backfill leakage\nand foreign material.",
+   "firm": "Fresenius Medical Care Holdings, Inc.",
+   "date": "2023-08-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:95382:Z-0005-2025:210103",
+   "model": "Z-800 Infusion System, Model Numbers Z-800, Z-800F, Z-800W, Z-800WF;\nSoftware Version: Z-800 6.1.01 and 6-1.07z; Z-800F ",
+   "problem": "There is a defect in the air-in-line software algorithm.",
+   "firm": "Zyno Medical LLC",
+   "date": "2024-09-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:97502:Z-0005-2026:215809",
+   "model": "Allura Xper FD20;\nModel Numbers: (1) 722006, (2) 722012, (3) 722028;\nAssociated 510(k)s: K102005, K130638, K130842, K133",
+   "problem": "The BIOS battery may deplete faster than initially anticipated during the design phase. When the battery is depleted, the start-up process of the system will be halted, and the system will not start. No user messages are shown before the battery is low on power or depleted.",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "date": "2025-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:99676:Z-0005-2027:222156",
+   "model": "Brand Name: Expressaire\nProduct Name: DISPOSABLE TOURNIQUET CUFF, 8\" X 2.5\" 2-LINE (CS 10)\nModel/Catalog Number: 564001\n",
+   "problem": "Due to incorrect expiration date on product manufactured between September 2016 to March 2023.  Products are labeled with a 10 year shelf life.  The correct validated shelf life is 5 years.",
+   "firm": "ASP Global, LLC.",
+   "date": "2026-08-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:27294:Z-0006-04:29626",
+   "model": "McGhan Style 40, Round Breast Implant, Standard Projection, Silicone-filled Smooth INTRASHIEL Barrier\n\nCatalog Numbers:\n",
+   "problem": "The 400cc, 460cc, 500cc and 560cc sizes of the McGhan Style 40 Silicone-filled Breast Implants were manufactured using one size smaller shells than required.",
+   "firm": "Inamed Corp",
+   "date": "2003-09-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:29985:Z-0006-05:34915",
+   "model": "AxSYM Total B-hCG Reagent, Product list number: 7A59-22 and 7A59-21",
+   "problem": "Assay may give elevated patients results.",
+   "firm": "Abbott Health Products, Inc.",
+   "date": "2004-08-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:33412:Z-0006-06:41847",
+   "model": "Nichols Advantage Invasive Trophoblast Antigen (ITA)Assay Cartridges (Catalog #62-7052)",
+   "problem": "Data from internal testing indicates that the Nichols Advantage Invasive Trophoblast Antigen Assay Cartridges (ITA)(Lot No 62-500261) and Hyperglycosylated Human Chorionic Gonadotropin Assay Cartridges (H-hCG)(Lot No 62-500262) does not maintain its stability over the 12 month expiration dating of the product, and that stability is assured only through 6 months.",
+   "firm": "Nichols Institute Diagnostics",
+   "date": "2005-08-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:36214:Z-0006-2007:48463",
+   "model": "Stryker Navigation System Remote Planning Stations with Dell laptop computer model D800, Stryker # 7700-010-000 and 6000",
+   "problem": "A component of the device is a Dell laptop computer, which contains batteries that are under recall because they can overheat and cause a fire.",
+   "firm": "Stryker Instruments Div. of Stryker Corporation",
+   "date": "2006-09-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:38484:Z-0006-2008:53847",
+   "model": "GE Disposable Multi Absorber Canister used with EZchange Module for the  Aisys, Avance,  Aespire Anesthesia systems. The",
+   "problem": "Elevated inspired CO2 levels related to the use of the Datex-Ohmeda GE Healthcare Disposable Multi Absorber Canister with the EZchange Module.",
+   "firm": "Datex - Ohmeda, Inc",
+   "date": "2007-07-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:48638:Z-0006-2009:71772",
+   "model": "Roche Diagnostics LDL_C, LDL- Cholesterol Plus 2nd generation, COBAS INTEGRA, cobas c systems, Roche Diagnostics, Indian",
+   "problem": "Some of the labels are glossy, resulting in the bar code being difficult to read by the bar code reader.",
+   "firm": "Roche Diagnostics Corp.",
+   "date": "2008-06-11"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:52202:Z-0006-2010:82495",
+   "model": "Multi-Drug iCup Drug Screen Test Cup.  Part Number DUD-1107-012-08A. \n\nSubsequent Product Codes: DIO, DIS, DJC, DJG, DJR",
+   "problem": "The cup associated with these lots of product may have a pin-sized hole in the floor of the cup.  As a result, there is a potential  for affected lots of cups to leak urine after an extended period of time.",
+   "firm": "Biosite Inc",
+   "date": "2009-04-27"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:56257:Z-0006-2011:93083",
+   "model": "CareFusion Alaris PC Unit Model 8015 (formerly Medley\nPC Unit): Alaris PC Units (Model 8015) with logic board part numbe",
+   "problem": "Under certain wireless network conditions a communication error can occur, which freezes the PC Unit screen, which may result in a delay of therapy.  A delay of therapy may result in serious injury and/or death. CareFusion identified this potential risk associated with the Alaris PC unit model 8015 only (PC Unit) manufactured between December-2008 and September-2009.",
+   "firm": "CareFusion Corporation",
+   "date": "2010-07-13"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:59139:Z-0006-2012:101368",
+   "model": "Model 104 VNS Therapy Demipulse Duo Generator Cyberonics, Inc. Houston, Texas, Model 104 Generators are provided in a st",
+   "problem": "An investigation was initiated based on a report from the field in which an Intensive Follow-up Indicator (IFI) message was unexpectedly received by a medical professional when using Model 250 version 8.0 software to interrogate a patient's Model 103 Generator.",
+   "firm": "Cyberonics, Inc",
+   "date": "2011-05-06"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:63196:Z-0006-2013:112953",
+   "model": "Endoscopic retrieval device.\n\nThe disposable Raptor grasping device in intended to retrieve foreign bodies or resected t",
+   "problem": "When the outer catheter is either coiled or in a contorted configuration outside of the endoscope and the patient, and excessive force is applied to the handle, the jaws may become inoperable and may become stuck in the open condition.",
+   "firm": "US Endoscopy Group Inc",
+   "date": "2011-11-14"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:66128:Z-0006-2014:121529",
+   "model": "H&H Emergency Cricothyrotomy Kit (Part No. HHECT01/ HHECTK01, NSN 6515-01-573-0692), vacuum sealed and packaged in a 5 m",
+   "problem": "Medical device tubing used for endotracheal airway application may become weakened and rendered ineffective.",
+   "firm": "H & H Associates",
+   "date": "2013-08-27"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:69024:Z-0006-2015:129364",
+   "model": "ENVOY 500 AST Reagent Kit, reference Model/Catalog 55255, for Envoy 500.   \r\n\r\nIntended Use of the Product: Envoy 500 AS",
+   "problem": "Some users of ENVOY 500 AST Reagent Kit, reference 55255, for Envoy 500 systems are observing that Quality Control (QC) fails before the product expiry is reached.",
+   "firm": "ELITech Clinical Systems SAS",
+   "date": "2014-08-11"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:74999:Z-0006-2017:149075",
+   "model": "HeartWare Ventricular Assist System (HVAD), US product: Model No.: 1103;  and International Product:  Model No.: 1104XX.",
+   "problem": "Foreign material found within the driveline connector of the HVAD Pump that could cause increased impedance resulting in electrical faults.",
+   "firm": "HeartWare, Inc",
+   "date": "2016-08-17"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:78079:Z-0006-2018:158632",
+   "model": "Electric Wheelchair bases:\na) C300 \nb) C350 \nc) C400 \nd) C500",
+   "problem": "There is a potential failure of the top plate assembly, which is the component that connects the seating system of the wheelchair to the base.",
+   "firm": "Permobil, Ab",
+   "date": "2017-09-01"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:80812:Z-0006-2019:166565",
+   "model": "ENDOLOGIX AFX Endovascular AAA System, Stent Graft System, Rx Only, Sterile EO, REF: \t\t\t\t\t\t\t\t\t\nBA22-120/I20-40,\t\t\t\t\t\t\t\t\t",
+   "problem": "Endologix is notifying physicians of patient tailored surveillance recommendations as well as general warnings/precautions for interventions to or through an existing AFX device.  This is a follow-up notification to the one that was sent out in December 2016.  The updates are related to the observation of Type III endoleaks.",
+   "firm": "Endologix",
+   "date": "2018-07-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:83509:Z-0006-2020:176402",
+   "model": "SECURE EVA - DUAL CHAMBER CONTAINER with Manifold, 4000mL, REF 66641 (Canadian distribution) - Product Usage: For use in",
+   "problem": "Potential for leaking product",
+   "firm": "The Metrix Company",
+   "date": "2018-09-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:86214:Z-0006-2021:183100",
+   "model": "Endo GIA Auto Suture Universal Articulating Loading Unit 45 mm - 3.5 mm, Item Code 030455 - Product Usage: The Endo GIA ",
+   "problem": "The device staples may not properly form upon application preventing adequate hemostasis.  Use of a product with this assembly error may result in incomplete staple formation.",
+   "firm": "Covidien, LP",
+   "date": "2020-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:88626:Z-0006-2022:189115",
+   "model": "Alinity m SARS-CoV-2 Amp Kit (Non-US Assay) and Alinity m SARS-CoV-2 Application Specification File. in vitro diagnostic",
+   "problem": "There is a potential for false positive results.",
+   "firm": "Abbott Molecular, Inc.",
+   "date": "2021-09-02"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:90772:Z-0006-2023:195699",
+   "model": "stryker EVOLVE,  Proline Stem, CoCr, Size: +4, OD:  9.5mm, REF 496S275, Wright s EVOLVE Proline Plus Radial Head and Rep",
+   "problem": "The outer label does not match the device inside the package. The affected lot of EVOLVE Proline Stem 7.5mm +2 contains a size 9.5mm +4 stem, while the affected lot of EVOLVE Proline Stem 9.5mm +4 contains a size 7.5mm +2 stem.",
+   "firm": "Wright Medical Technology, Inc.",
+   "date": "2022-08-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:92906:Z-0006-2024:202862",
+   "model": "10ML SYRINGE LUER LOCK W/NEEDLE, Part Number 15-10ML-0, 100 per box, 12 boxes per case",
+   "problem": "There is a potential for blood backfill leakage\nand foreign material.",
+   "firm": "Fresenius Medical Care Holdings, Inc.",
+   "date": "2023-08-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:95278:Z-0006-2025:209890",
+   "model": "Miami J Select Collar, Catalog: MJS-101; Miami J Select Collar Set, Catalog: MJSR-101",
+   "problem": "Pressure sensitive adhesive hooks attached to the sides of the anterior cervical orthosis collar panel can occasionally exhibit poor adhesion, which may lead to them gradually peeling off with repeated doffing, possibly leading to reduced immobilization of the cervical spine.",
+   "firm": "Ossur H / F",
+   "date": "2024-08-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:97502:Z-0006-2026:215810",
+   "model": "Allura Xper FD20 Biplane;\nModel Numbers: (1) 722008, (2) 722013;\nAssociated 510(k)s: K102005, K130638, K130842, K133292,",
+   "problem": "The BIOS battery may deplete faster than initially anticipated during the design phase. When the battery is depleted, the start-up process of the system will be halted, and the system will not start. No user messages are shown before the battery is low on power or depleted.",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "date": "2025-09-03"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:99676:Z-0006-2027:222157",
+   "model": "Brand Name: Expressaire\nProduct Name: DISPOSABLE TOURNIQUET CUFF, 12\" X 3.5\" 2-LINE (CS 10) PLUM\nModel/Catalog Number: 5",
+   "problem": "Due to incorrect expiration date on product manufactured between September 2016 to March 2023.  Products are labeled with a 10 year shelf life.  The correct validated shelf life is 5 years.",
+   "firm": "ASP Global, LLC.",
+   "date": "2026-08-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:27077:Z-0007-04:29148",
+   "model": "Calculator/Data Processing Module for Clinical Use",
+   "problem": "Software defect.  Clinical Laboratory results failing quality assurance were filed directly to a patient's chart without review.",
+   "firm": "Misys Healthcare Systems",
+   "date": "2003-08-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:29987:Z-0007-05:34917",
+   "model": "BC Thrombin Reagent . Thrombin Time Test",
+   "problem": "The product does not demonstrate the expected prolonged thrombin times for specimens obtained from patients recieving heparin",
+   "firm": "Dade Behring , Inc.",
+   "date": "2004-07-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:33412:Z-0007-06:41850",
+   "model": "Hyperglycosylated Human Chorionic Gonadotropin (H-hCG) Assay Cartridges (Catalog#62-7039)",
+   "problem": "Data from internal testing indicates that the Nichols Advantage Invasive Trophoblast Antigen Assay Cartridges (ITA)(Lot No 62-500261) and Hyperglycosylated Human Chorionic Gonadotropin Assay Cartridges (H-hCG)(Lot No 62-500262) does not maintain its stability over the 12 month expiration dating of the product, and that stability is assured only through 6 months.",
+   "firm": "Nichols Institute Diagnostics",
+   "date": "2005-08-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:36214:Z-0007-2007:48464",
+   "model": "Stryker Navigation System Dell Model D800 laptop computers (only), Stryker # 7700-309-010 and 6000-200-064.",
+   "problem": "A component of the device is a Dell laptop computer, which contains batteries that are under recall because they can overheat and cause a fire.",
+   "firm": "Stryker Instruments Div. of Stryker Corporation",
+   "date": "2006-09-08"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:38494:Z-0007-2008:53853",
+   "model": "4 glass vials per box. 2/4ml vials of Sample Diluting Solution & 2/2ml vials of Calibration Verification Material.  Beta",
+   "problem": "Firm discovered that a deterioration value of approximately 20% was found when the product of this lot was measured.  Tosoh AIA confirmed that deterioration of the product occurred over time and resulted in a deviation from the assigned value.",
+   "firm": "Tosoh Bioscience Inc",
+   "date": "2007-06-22"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:48638:Z-0007-2009:71817",
+   "model": "Roche Diagnostics IRON2, Iron Gen. 2, COBAS INTEGRA, cobas c systems, Roche Diagnostics, Indianapolis, IN.; 03183696122.",
+   "problem": "Some of the labels are glossy, resulting in the bar code being difficult to read by the bar code reader.",
+   "firm": "Roche Diagnostics Corp.",
+   "date": "2008-06-11"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:52202:Z-0007-2010:82496",
+   "model": "Multi-Drug 8 Panel Integrated iCup Drug Screen Test Cup.  Part Number DUD-187-013-08A.\n\nSubsequent Product Codes: DIO, D",
+   "problem": "The cup associated with these lots of product may have a pin-sized hole in the floor of the cup.  As a result, there is a potential  for affected lots of cups to leak urine after an extended period of time.",
+   "firm": "Biosite Inc",
+   "date": "2009-04-27"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:54154:Z-0007-2011:87691",
+   "model": "HiSpeed X/i Computed Tomography operator consoles with the Model Number 2153675 and 2247802.\n\nThe expected usage of this",
+   "problem": "It was discovered that the operator console did not have a label affixed in accordance with 21CFR 1010.2 indicating certification to applicable performance standards.",
+   "firm": "GE Medical Systems, LLC",
+   "date": "2009-05-01"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:59847:Z-0007-2012:103856",
+   "model": "Outlook ES Safety Infusion System, Model 621-100ES, 621-200ES, 621-300ES, and 621-400ES\n\nB. Braun Medical Inc., 1601 Wal",
+   "problem": "The Outlook ES Dose Guard Care Area can inadvertently be exited when the pump enters the KVO (Keep Vein Open) state.  The same condition can occur when a sequence of HOLD-HOLD key strokes are performed on the pump key panel.",
+   "firm": "B Braun Medical, Inc",
+   "date": "2010-07-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:62966:Z-0007-2013:112153",
+   "model": "BriteField illuminated Suction Device;\nModel numbers 8Fr, 10Fr and 12Fr, Kit (included 8Fr, 10Fr and 12Fr and a steriliz",
+   "problem": "Invuity is notifying customers to return all obsolete BriteField Illuminated Suction Devices from the field. It has not been distributed since March 2011 as the next generation product was introduced at that time.",
+   "firm": "Invuity, Inc.",
+   "date": "2012-05-12"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:66374:Z-0007-2014:122212",
+   "model": "Bard LifeStent Solo Vascular Stent, Item Numbers: EX062001CL, EX072001CL, EX062003CL, EX072003CL.\n\nThe LifeStent Solo Va",
+   "problem": "Bard Peripheral Vascular is recalling specific lots of Bard Lifestent Solo Vascular Stent because they have determined a higher incidence rate of partial stent deployment associated with their use.",
+   "firm": "Bard Peripheral Vascular Inc",
+   "date": "2013-09-30"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:69094:Z-0007-2015:129618",
+   "model": "VITROS Chemistry Products PHYT (Phenytoin) Slides, REF/Product Code 829 8671, IVD.\r\n\r\nFor in vitro diagnostic use only. ",
+   "problem": "Ortho Clinical Diagnostics identified a potential for biased results to be generated when using VITROS PHYT Slides, Lot 2613-0150-4913.  Some positively biased results were identified during testing of a different VITROS PHYT Slide lot; the affected slides were not released for distribution.  Since Lot 2613-0150-4913 was manufactured in the same event, there is the potential for slides from this l",
+   "firm": "Ortho-Clinical Diagnostics",
+   "date": "2014-08-20"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:75031:Z-0007-2017:149142",
+   "model": "0.2 Micron Filter, 50 mm\n\nProduct Usage:\nThe 0.2 Micron Filter is a bacteria and particulate filter for aqueous solution",
+   "problem": "Baxter Healthcare Corporation is issuing a voluntary product recall for all unexpired lots of the 50mm 0.2 Micron Filter (Product Code: H93835) due to the potential for the filter membrane layer to be missing and for particulate matter to be present.",
+   "firm": "Baxter Corporation Englewood",
+   "date": "2016-08-24"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:77788:Z-0007-2018:157875",
+   "model": "Implant Direct Swish Duo-Grip Healing Collar, Length: 3mm, Platform: 4.8 mm, Rx only, Sterile  Dental Implant component.",
+   "problem": "The Swish Duo-Grip Healing Collar part number 9048-13H (4.8mm) package contained a 9037-13H (3.7 mm) component.",
+   "firm": "Implant Direct Sybron Manufacturing, LLC",
+   "date": "2017-07-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:80812:Z-0007-2019:167115",
+   "model": "ENDOLOGIX AFX2 Bifurcated Endograft System, Stent Graft System, Rx Only, Sterile EO, REF: \t\t\t\t\t\t\t\t\t\nBEA22-120/I20-40,\t\t\t",
+   "problem": "Endologix is notifying physicians of patient tailored surveillance recommendations as well as general warnings/precautions for interventions to or through an existing AFX device.  This is a follow-up notification to the one that was sent out in December 2016.  The updates are related to the observation of Type III endoleaks.",
+   "firm": "Endologix",
+   "date": "2018-07-31"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:83509:Z-0007-2020:176404",
+   "model": "ExactaMix,  Model: H938901, EMPTY EVA DUAL CHAMBER CONTAINER With Screw Connectors, 500 ml/ 2500 ml, Baxter - Product Us",
+   "problem": "Potential for leaking product",
+   "firm": "The Metrix Company",
+   "date": "2018-09-21"
+  },
+  {
+   "source": "device_recall",
+   "record_id": "device_recall:86214:Z-0007-2021:183101",
+   "model": "Endo GIA Auto Suture Universal Loading Unit, Item Code 030457 - Product Usage: The Endo GIA  universal staplers have app",
+   "problem": "The device staples may not properly form upon application preventing adequate hemostasis.  Use of a product with this assembly error may result in incomplete staple formation.",
+   "firm": "Covidien, LP",
+   "date": "2020-08-12"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10",
+   "model": "MANUAL HOSPITAL BED",
+   "problem": "[{'mdr_text_key': '3', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'RESIDENT WAS IN BED WITH BOTH SIDERAILS IN \"UP\" POSITION.  NURSING ASSISTANT HEARD A NOISE AND WENT INTO RESIDENT\\'S ROOM.  RESIDENT WAS LYING ON THE FLOOR WITH LEFT ARM STUCK BETWEEN THE MATRESS FRAME AND SIDERAIL;  RESIDENT WAS SENT TO HOSPITAL AND RECEIVED TREATMENT FOR BROKEN AR",
+   "firm": "SCI-O-TECH/GOODMAN",
+   "date": "19920220"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000",
+   "model": "SAME AS ABOVE",
+   "problem": "[{'mdr_text_key': '614', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'PATIENT STARTED ON HEMODIALYSIS ALARMS INTACT.  MACHINE ALARMED, TESTED FOR BLOOD IN DIALYSATE POSITIVE.  HEMODIALYSIS STOPPED NO BLOOD RETURNED TO PATIENT PER HCP.  EBL 250CC PER HCPDEVICE LABELED FOR SINGLE USE.  PATIENT MEDICAL STATUS PRIOR TO EVENT:  INVALID DATA.  THERE WAS N",
+   "firm": "GAMBRO PLATE LUNDIA DIALYZER",
+   "date": "19920629"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000",
+   "model": "TRANSFER CHAMBER",
+   "problem": "[{'mdr_text_key': '5377', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'ONE OR MORE CRACKS IN GREY PLASTIC SURROUNDING FILTER MATERIAL.  WATER FLOWS THROUGH THESE CRACKS, FILLS THE CHAMBER AND CAUSES THE HEATER TO HEAT IMPROPERLY.INVALID DATA - REGARDING SINGLE USE LABELING OF DEVICE.  PATIENT MEDICAL STATUS PRIOR TO EVENT:  INVALID DATA.  INVALID DA",
+   "firm": "SIM/INTEC",
+   "date": "19940805"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:100000",
+   "model": "VITAL SIGNS",
+   "problem": "[{'mdr_text_key': '21392769', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS PT WAS THE FIRST CASE OF THE DAY AND THE ANESTHESIA MACHINE HAD BEEN CHECKED ACCORDING TO THE STANDARD CHECKOUT PROCEDURE RECOMMENDED BY THE AMERICAN SOCIETY OF ANESTHESIOLOGISTS. THE PEAK INSPIRATORY PRESSURES READ BY THE MACHINE (OHMEDA) SPIROMETER ON THE VENTILATOR AN",
+   "firm": "VITAL SIGNS, INC.",
+   "date": "19970428"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000000",
+   "model": "CELL-DYN SAPPHIRE ANALYZER",
+   "problem": "[{'mdr_text_key': '788224', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THE CUSTOMER CONTACTED ABBOTT REGARDING HEMOGLOBIN SYRINGE \"FAIL TO HOME\" ERROR MESSAGES GENERATED FIVE TIMES IN ONE DAY FROM THE CELL-DYN SAPPHIRE HEMATOLOGY ANALYZER. THE CUSTOMER WAS ABLE TO CLEAR THE ERROR MESSAGE WITH TEMPORARY RESOLUTION. THE ABBOTT CUSTOMER TECHNICAL ADV",
+   "firm": "ABBOTT DIAGNOSTICS DIVISION/CELLDYN",
+   "date": "20071216"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000000",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '189010215', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE INSULIN PUMP WAS RECEIVED WITH A CRACKED CASE (BATTERY TUBE), CRACKED BATTERY TUBE THREADS, BROKEN RESERVOIR TUBE LIP, MISSING RETAINER AND MISSING RESERVOIR TUBE O-RING. UNIT P-CAP, TEST RESERVOIR DOES NOT LOCK IN PLACE PROPERLY AND UNABLE TO PERFORM THE DISPLACEMENT ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200304"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000001",
+   "model": "PUMP MMT-1714K 630G BLACK MMOL CANADA",
+   "problem": "[{'mdr_text_key': '192357512', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. NO CONCLUSION CAN BE DRAWN AT THIS TIME. WE THEREFORE CONSIDER THIS REPORT COMPLETE TO THE BEST OF OUR KNOWLEDGE.'}, {'mdr_text_key': '192",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000002",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '189010433', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER, MISSING RESERVOIR TUBE O-RING AND BROKEN RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST OR LOCK RESERVOIR IN PLACE DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189010434', 'text_type_code': 'Description of Event or Pro",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200305"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000003",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189009805', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH PARTIALLY BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200305"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000004",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '189011892', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH A MISSING RETAINER RING AND A MISSING RESERVOIR TUBE LIP O-RING. UNABLE TO PERFORM THE DISPLACEMENT TEST SINCE P-CAP, RESERVOIR WILL NOT LOCK PROPERLY DUE TO THE MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189011893', 'text_type_code': 'Description of",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200306"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000005",
+   "model": "INTELLIVUE MX450 PATIENT MONITOR",
+   "problem": "[{'mdr_text_key': '320776294', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'SUBMISSION OF A REPORT DOES NOT CONSTITUTE AN ADMISSION THAT MEDICAL PERSONNEL, USER FACILITY, IMPORTER, DISTRIBUTOR, MANUFACTURER, OR PRODUCT CAUSED OR CONTRIBUTED TO THE EVENT.'}, {'mdr_text_key': '190157771', 'text_type_code': 'Additional Manufacturer Narrative', 'patie",
+   "firm": "PHILIPS MEDICAL SYSTEMS",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000006",
+   "model": "640G INSULIN PUMP MMT-1711K",
+   "problem": "[{'mdr_text_key': '330118441', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0958-2020 . MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000007",
+   "model": "CAPSUREFIX NOVUS LEAD MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '189052480', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'CONCOMITANT MEDICAL PRODUCTS: DTBB1D1 CRTD IMPLANT DATE (B)(6) 2016. IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189052481', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text'",
+   "firm": "MPRI",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000008",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189012805', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH PARTIALLY BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200224"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000009",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '189011375', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'INSULIN PUMP WAS RECEIVED WITH PARTIALLY BROKEN RESERVOIR TUBE LIP, MISSING RESERVOIR TUBE O-RING, MISSING RESERVOIR RETAINER, CRACKED BATTERY TUBE THREADS, CRACKED CASE AT CORNER OF THE BELT CLIP RAILS AND CRACKED CASE ALONG THE SIDE OF THE BATTERY TUBE. THE P-CAP DOES NO",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200206"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000001",
+   "model": "CELL-DYN SAPPHIRE ANALYZER",
+   "problem": "[{'mdr_text_key': '15604222', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THE CUSTOMER CONTACTED ABBOTT REGARDING HEMOGLOBIN SYRINGE \"FAIL TO HOME\" ERROR MESSAGES GENERATED FROM THE CELL-DYN SAPPHIRE HEMATOLOGY ANALYZER. THE CUSTOMER STATES THE HEMOGLOBIN SYRINGE LOCKED UP AND THE PLUNGER WOULD NOT MOVE WHEN THE SYRINGE WAS REMOVED FOR WEEKLY CLEAN",
+   "firm": "ABBOTT DIAGNOSTICS DIVISION/CELLDYN",
+   "date": "20071214"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000010",
+   "model": "RESERVOIR 3ML MMT-332A",
+   "problem": "[{'mdr_text_key': '188979128', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. THE DEVICE WILL BE RETURNED FOR ANALYSIS AND FURTHER INFORMATION WILL FOLLOW ONCE THE ANALYSIS HAS BEEN COMPLETED. NO CONCLUSION CAN BE DR",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200420"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000011",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189013437', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200220"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000012",
+   "model": "PUMP MMT-1780K 670G 3ML BLACK",
+   "problem": "[{'mdr_text_key': '329794896', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020 MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS B",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200228"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000013",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '190485634', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('REMOVAL') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT UNDERWENT MEDICAL DEVICE REMOVA",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000014",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '318291711', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'I HAVE BEEN E FREE SINCE 2016\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000015",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188980088', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF RASH ('HAD A RASH JUST LIKE THAT UNDER MY BOOB') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT EXPERIENCED RASH ",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000016",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '319338492', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF ABDOMINAL PAIN LOWER (\\'CRAMPS\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSER",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000017",
+   "model": "CAPSUREFIX NOVUS MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '188966123', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'CONCOMITANT MEDICAL PRODUCTS: SEDR01 IPG, IMPLANTED: (B)(6) 2016. IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '188966124', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': '",
+   "firm": "MPRI",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000018",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '320138297', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF PELVIC PAIN (\\'I AM 4 WEEKS PO/PAIN\\') IN A 48-YEAR-OLD FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON (B)(6) 2007, THE PATIENT HAD",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000019",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189074097', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM DISPLACEMENT TEST DUE TO MISSING RETAINER. THE P-CAP DOES NOT LOCK PROPERLY DUE TO MISSING RETAINER. UNIT RECEIVED WITH BROKEN BATTERY TUBE THREADS. (B)(4).'}, {'mdr_text_key': '189074098', 'text_type_code': 'Description of Event or Problem', 'patient_seq",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200308"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000002",
+   "model": "CELL-DYN SAPPHIRE ANALYZER",
+   "problem": "[{'mdr_text_key': '788210', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THE CUSTOMER CONTACTED ABBOTT REGARDING INTERMITTENT HEMOGLOBIN SYRINGE \"FAIL TO HOME\" ERROR MESSAGES GENERATED FROM THE CELL-DYN SAPPHIRE HEMATOLOGY ANALYZER. THE CUSTOMER STATES THE SYRINGE WAS CLEANED AND RESEATED, BUT ERROR RECURRED WITHIN AN HOUR OF SYRINGE CLEANING. THE C",
+   "firm": "ABBOTT DIAGNOSTICS DIVISION/CELLDYN",
+   "date": "20071210"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000020",
+   "model": "640G INSULIN PUMP MMT-1711K",
+   "problem": "[{'mdr_text_key': '192174188', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'TESTED WITH A TEST P-CAP AND THE TEST P-CAP DID NOT LOCK IN PLACE PROPERLY DUE TO MISSING RETAINER. UNABLE TO PERFORM DISPLACEMENT TEST DUE TO MISSING RETAINER. (B)(4). THE INSULIN PUMP INVOLVED IN THIS EVENT IS THE 640G INSULIN INFUSION PUMP, WHICH IS NOT MARKETED IN THE ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200123"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000021",
+   "model": "NI",
+   "problem": "[{'mdr_text_key': '188979214', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE DEVICE WAS NOT RETURNED AND THE LOT NUMBER IS UNKNOWN; THEREFORE, A DEVICE ANALYSIS COULD NOT BE COMPLETED. SHOULD ADDITIONAL RELEVANT INFORMATION BECOME AVAILABLE, A SUPPLEMENTAL REPORT WILL BE SUBMITTED.'}, {'mdr_text_key': '188979215', 'text_type_code': 'Description",
+   "firm": "BAXTER HEALTHCARE CORPORATION",
+   "date": "20200402"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000022",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189072566', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE TEST P-CAP DOES NOT LOCK IN PLACE AND UNABLE TO PERFORM THE DISPLACEMENT TEST DUE TO MISSING RETAINER, MISSING RESERVOIR TUBE O-RING AND BROKEN RESERVOIR TUBE LIP. (B)(4).'}, {'mdr_text_key': '189072567', 'text_type_code': 'Description of Event or Problem', 'patient_se",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200307"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000023",
+   "model": "CAPSUREFIX NOVUS MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '188966256', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'CONCOMITANT MEDICAL PRODUCTS: SEDR01 IPG, IMPLANTED: (B)(6) 2016. IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '188966257', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': '",
+   "firm": "MPRI",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000024",
+   "model": "CAPSURE SP NOVUS LEAD",
+   "problem": "[{'mdr_text_key': '189056120', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'CONCOMITANT MEDICAL PRODUCTS: A2DR01 IPG IMPLANT DATE (B)(6) 2016. IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189056121', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': ",
+   "firm": "MPRI",
+   "date": "20200223"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000025",
+   "model": "PUMP MMT-1780K 670G 3ML BLACK",
+   "problem": "[{'mdr_text_key': '189073916', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'PUMP RECEIVED WITH MISSING RETAINER. PUMP RECEIVED WITH PARTIALLY BROKEN RESERVOIR TUBE LIP. UNABLE TO PERFORM THE DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189073917', 'text_type_code': 'Descriptio",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200307"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000026",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '192392061', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH PARTIALLY BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. UNIT RECEIVED WITH FAD",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200305"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000027",
+   "model": "640G INSULIN PUMP MMT-1712K",
+   "problem": "[{'mdr_text_key': '189072754', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. THE DEVICE WILL BE RETURNED FOR ANALYSIS AND FURTHER INFORMATION WILL FOLLOW ONCE THE ANALYSIS HAS BEEN COMPLETED. NO CONCLUSION CAN BE DR",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000028",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189073047', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT HAD A MISSING RETAINER AND MISSING RESERVOIR TUBE O-RING. THE P-CAP DOES NOT LOCK IN PLACE DUE TO MISSING RETAINER. UNABLE TO PERFORM THE DISPLACEMENT TEST DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189073048', 'text_type_code': 'Description of Event or Pro",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200131"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000029",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189023895', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'INSULIN PUMP RECEIVED WITH MISSING RETAINER. UNABLE TO PERFORM THE DISPLACEMENT TEST AND P-CAP, RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189023896', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number'",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200308"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000003",
+   "model": "CARMEDA CIRCUIT - HEPARIN COATED",
+   "problem": "[{'mdr_text_key': '788225', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS WAS A NEWBORN WITH A LARGE DIAPHRAGMATIC HERNIA, WHO WAS PLACED ON EXTRACORPORAL MEMBRANE OXYGENATION - ECMO-. IMMEDIATELY AFTER ECMO WAS BEGUN, SHE DEVELOPED DIFFUSE PETECHIAL LESIONS WHICH PROGRESSED TO PURPURA AND HYPERTENSION, THEN DIC. SHE CONTINUED TO DETERIORATE AND",
+   "firm": "MEDTRONIC",
+   "date": "20080120"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000030",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189074369', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM DISPLACEMENT TEST DUE TO DETACHED RETAINER, MISSING RESERVOIR TUBE O-RING AND BROKEN RESERVOIR TUBE LIP. TEST RESERVOIR DOES NOT LOCK PROPERLY INSIDE THE RESERVOIR TUBE DUE TO DETACHED RETAINER. PUMP RECEIVED WITH BROKEN BELT CLIP RAILS. (B)(4).'}, {'mdr_",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200304"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000031",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189025100', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH PARTIALLY BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200308"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000032",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330341368', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20190827"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000033",
+   "model": "ACCU-CHEK ® PERFORMA TEST STRIPS",
+   "problem": "[{'mdr_text_key': '222555296', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': \"THE CUSTOMER'S METER AND TEST STRIPS WERE REQUESTED FOR INVESTIGATION. THE TEST STRIPS ARE NOT EXPECTED TO BE RETURNED. THE PRODUCT HAS NOT BEEN RECEIVED AT THIS TIME. IF THE PRODUCT IS RETURNED IN THE FUTURE, A FOLLOW UP REPORT WILL BE SUBMITTED. ROUTINE RETENTION TESTING",
+   "firm": "ROCHE DIAGNOSTICS",
+   "date": "20200202"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000034",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '188979551', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. NO CONCLUSION CAN BE DRAWN AT THIS TIME. WE THEREFORE CONSIDER THIS REPORT COMPLETE TO THE BEST OF OUR KNOWLEDGE.'}, {'mdr_text_key': '188",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200301"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000035",
+   "model": "640G INSULIN PUMP MMT-1711K",
+   "problem": "[{'mdr_text_key': '192397728', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. NO CONCLUSION CAN BE DRAWN AT THIS TIME. WE THEREFORE CONSIDER THIS REPORT COMPLETE TO THE BEST OF OUR KNOWLEDGE. THE INSULIN PUMP INVOLVE",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000036",
+   "model": "SELECTSECURE MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '190575094', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '190575095', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS FURTHER REPORTED THAT PHYSICIAN MADE A MEDICAL JUDGEMENT TO",
+   "firm": "MPRI",
+   "date": "20200403"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000037",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330014199', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'UPDATED H9: 2032227-060322-002-C. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS BASED UPON INFORMATION OBTAINED BY MEDTRONIC, WHICH THE COMPANY MAY NOT HAVE BEEN ABLE TO FULL",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200216"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000038",
+   "model": "NI",
+   "problem": "[{'mdr_text_key': '188969134', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE DEVICE WAS NOT RETURNED AND THE LOT NUMBER IS UNKNOWN; THEREFORE, A DEVICE ANALYSIS COULD NOT BE COMPLETED. SHOULD ADDITIONAL RELEVANT INFORMATION BECOME AVAILABLE, A SUPPLEMENTAL REPORT WILL BE SUBMITTED.'}, {'mdr_text_key': '188969135', 'text_type_code': 'Description",
+   "firm": "BAXTER HEALTHCARE CORPORATION",
+   "date": "20200401"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000039",
+   "model": "PARADIGM REAL-TIME INSULIN INFUSION PUMP MMT-754WWL",
+   "problem": "[{'mdr_text_key': '192395952', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. NO CONCLUSION CAN BE DRAWN AT THIS TIME. WE THEREFORE CONSIDER THIS REPORT COMPLETE TO THE BEST OF OUR KNOWLEDGE. THE INSULIN PUMP INVOLVE",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000004",
+   "model": "CELL-DYN SAPPHIRE ANALYZER",
+   "problem": "[{'mdr_text_key': '788211', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THE CUSTOMER CONTACTED ABBOTT REGARDING FREQUENT HEMOGLOBIN SYRINGE \"FAIL TO HOME\" ERROR MESSAGES OCCURING THROUGHOUT THE DAY FROM THE CELL-DYN SAPPHIRE HEMATOLOGY ANALYZER. THE CUSTOMER HAD NOT PERFORMED ANY TROUBLESHOOTING PROCEDURES AND THE CUSTOMER WAS INSTRUCTED TO CLEAN A",
+   "firm": "ABBOTT DIAGNOSTICS DIVISION/CELLDYN",
+   "date": "20071208"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000040",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '320027627', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'I FELT LIKE THAT EVERY MONTH BEFORE REMOVAL\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNK",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000041",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '190488861', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'I AM HAVING MY ESSURE REMOVED TOMORROW\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DA",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000042",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '192390762', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER, MISSING RESERVOIR TUBE O-RING AND BROKEN RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST OR LOCK RESERVOIR IN PLACE DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '192390763', 'text_type_code': 'Description of Event or Pro",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200213"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000043",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '318088868', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF PELVIC PAIN (\\'BAD PAIN IN PELVIC AREA\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. IN 2009, THE PATIENT HAD ESSURE INSERTED",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000044",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '189580444', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'THREE WEEKS E-FREE\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE PATIENT HAD ",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000045",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '192391452', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'PUMP RECEIVED WITH MISSING RETAINER AND RESERVOIR TUBE O-RING. PUMP RECEIVED WITH PARTIALLY BROKEN RESERVOIR TUBE LIP. UNABLE TO PERFORM THE DISPLACEMENT TEST AND P-CAP, RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '192391453', 'tex",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200308"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000046",
+   "model": "640G INSULIN PUMP MMT-1710K",
+   "problem": "[{'mdr_text_key': '188999578', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. THE DEVICE WILL BE RETURNED FOR ANALYSIS AND FURTHER INFORMATION WILL FOLLOW ONCE THE ANALYSIS HAS BEEN COMPLETED. NO CONCLUSION CAN BE DR",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200420"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000047",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '188998662', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE PUMP WAS RECEIVED WITH A BROKEN RESERVOIR TUBE LIP, MISSING RETAINER AND MISSING RESERVOIR TUBE O-RING. UNIT P-CAP / TEST RESERVOIR DOES NOT LOCK IN PLACE PROPERLY AND UNABLE TO PERFORM THE DISPLACEMENT TEST DUE TO THE MISSING RETAINER AND BROKEN RESERVOIR TUBE LIP. (B",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200303"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000048",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '329690964', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0955-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200309"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000049",
+   "model": "GM HELIX  IMPLANT 5.0X13 MM",
+   "problem": "[{'mdr_text_key': '188969307', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE INFORMATION PROVIDED IN THIS REPORT WAS BASED ON INFORMATION GIVEN BY THE DENTIST IN NEODENT¿S PRODUCTS WARRANTY FORM THAT WAS RECORDED IN THE SYSTEM AND IS USED BY BOTH THE MANUFACTURER AND THE SUBSIDIARY. THE ORIGINAL COMPLAINT AND THE PRODUCT WERE RECEIVED BY THE SU",
+   "firm": "NEODENT - JJGC S.A.",
+   "date": "20191129"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000005",
+   "model": "CELL-DYN SAPPHIRE ANALYZER",
+   "problem": "[{'mdr_text_key': '788226', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THE CUSTOMER CONTACTED ABBOT REGARDING HEMAGLOBIN SYRINGE \"FAIL TO HOME\" ERROR MESSAGES GENERATED FROM THE CELL-DYN SAPPHIRE HEMATOLOGY ANALYZER. WHEN THE CUSTOMER REMOVED THE SYRINGE TO CLEAN IT, THE SYRINGE PLUNGER WAS STUCK VERY TIGHTLY IN THE SYRINGE BARREL REQUIRING ENOUGH",
+   "firm": "ABBOTT DIAGNOSTICS DIVISION/CELLDYN",
+   "date": "20071205"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000050",
+   "model": "CAPSUREFIX NOVUS LEAD MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '322056670', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'MEDTRONIC IS SUBMITTING THIS REPORT TO COMPLY WITH FDA REPORTING REGULATIONS UNDER 21 CFR PARTS 4 AND 803. THIS REPORT IS BASED UPON INFORMATION OBTAINED BY MEDTRONIC, WHICH THE COMPANY MAY NOT HAVE BEEN ABLE TO FULLY INVESTIGATE OR VERIFY PRIOR TO THE DATE THE REPORT WAS ",
+   "firm": "MPRI",
+   "date": "20200406"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000051",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '330342874', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0955-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200309"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000052",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330237962', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200307"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000053",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '194228301', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'DEVICE PASSED SLEEP CURRENT MEASUREMENT, ACTIVE CURRENT MEASUREMENT, SELF TEST AND DISPLACEMENT TEST. HOWEVER, DEVICE TRACE DOWNLOAD ANALYSIS CONFIRMED THE INSULIN PUMP ALARMED POWER ERROR 25, POWER LOSS ALARM, REPLACE BATTERY ALERT AND REPLACE BATTERY NOW ALARM. THE ADAPT",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200418"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000054",
+   "model": "CAPSUREFIX NOVUS LEAD MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '189050120', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189050121', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT THE RIGHT VENTRICULAR (RV) LEAD EXHIBITED SMA",
+   "firm": "MPRI",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000055",
+   "model": "CAPSURE SENSE LEAD MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '316327086', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'PRODUCT EVENT SUMMARY: THE FULL LEAD WAS RETURNED AND ANALYZED. NO ANOMALIES WERE FOUND. VISUAL ANALYSIS OF THE LEAD INDICATED APPARENT EXPLANT DAMAGE. MEDTRONIC IS SUBMITTING THIS REPORT TO COMPLY WITH FDA REPORTING REGULATIONS UNDER 21 CFR PARTS 4 AND 803. THIS REPORT IS",
+   "firm": "MPRI",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000056",
+   "model": "NI",
+   "problem": "[{'mdr_text_key': '188968725', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE DEVICE WAS NOT RETURNED AND THE LOT NUMBER IS UNKNOWN; THEREFORE, A DEVICE ANALYSIS COULD NOT BE COMPLETED. SHOULD ADDITIONAL RELEVANT INFORMATION BECOME AVAILABLE, A SUPPLEMENTAL REPORT WILL BE SUBMITTED.'}, {'mdr_text_key': '188968726', 'text_type_code': 'Description",
+   "firm": "BAXTER HEALTHCARE CORPORATION",
+   "date": "20200402"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000057",
+   "model": "NI",
+   "problem": "[{'mdr_text_key': '188969185', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE DEVICE WAS NOT RETURNED AND THE LOT NUMBER IS UNKNOWN; THEREFORE, A DEVICE ANALYSIS COULD NOT BE COMPLETED. SHOULD ADDITIONAL RELEVANT INFORMATION BECOME AVAILABLE, A SUPPLEMENTAL REPORT WILL BE SUBMITTED.'}, {'mdr_text_key': '188969186', 'text_type_code': 'Description",
+   "firm": "BAXTER HEALTHCARE CORPORATION",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000058",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330005280', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200302"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000059",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '329927624', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20191227"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000006",
+   "model": "7700",
+   "problem": "[{'mdr_text_key': '15565627', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'A GE SERVICE REP PERFORMED AN ON SITE INVESTIGATION. ORDERED AND DELIVERED A REPLACEMENT IMAGE INTENSIFIER (II) POWER SUPPLY TO CUSTOMER. IT IS BELIEVED THAT THIS COMPONENT WILL ADDRESS THE REPORTED ISSUE. NO ADDITIONAL INFO AT THIS TIME. IF ADDITIONAL INFO IS RECEIVED THAT",
+   "firm": "GE OEC MEDICAL SYSTEMS INC.",
+   "date": "20080211"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000060",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330240765', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200308"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000061",
+   "model": "640G INSULIN PUMP MMT-1712K",
+   "problem": "[{'mdr_text_key': '329352406', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0958-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200125"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000062",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330244303', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200309"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000063",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '192389182', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH PARTIALLY BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200306"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000064",
+   "model": "FREESTYLE LITE",
+   "problem": "[{'mdr_text_key': '189222156', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'AN EXTENDED INVESTIGATION HAS BEEN CONDUCTED, WHICH INVOLVED A MANUFACTURING REVIEW (INCLUDING 5 YEARS OF DEVICE HISTORY RECORDS (DHRS)), PREVIOUS COMPLAINT AND CORRECTIVE AND PREVENTIVE ACTION (CAPA) INVESTIGATIONS CONDUCTED FOR BLANK SCREEN ISSUES,\\xa0PROCESS FAILURE MOD",
+   "firm": "ABBOTT DIABETES CARE INC",
+   "date": "20200423"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000065",
+   "model": "530G INSULIN PUMP MMT-551NAS",
+   "problem": "[{'mdr_text_key': '192389103', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT. THE DEVICE HAS BEEN RETURNED, BUT NOT YET EVALUATED. FURTHER INFORMATION WILL FOLLOW ONCE THE ANALYSIS HAS BEEN COMPLETED. NO CONCLUSION CAN BE DRAWN AT THIS TIME.'}, {'m",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200101"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000066",
+   "model": "PARADIGM REAL-TIME REVEL INSULIN INFUSION PUMP MMT-523LNAL",
+   "problem": "[{'mdr_text_key': '191821579', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'A TEST RESERVOIR WAS INSTALLED AND DID NOT LOCK IN PLACE DUE TO COMPLETELY BROKEN RESERVOIR TUBE LIP. UNABLE TO PERFORM THE DISPLACEMENT TEST DUE TO COMPLETELY BROKEN RESERVOIR TUBE LIP. UNIT HAD MISSING RESERVOIR TUBE O-RING. (B)(4).'}, {'mdr_text_key': '191821580', 'text",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200310"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000067",
+   "model": "SERENA QUAD CRT-P MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '189193057', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189193058', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"IT WAS REPORTED BY THE PATIENT THAT THEIR CARDIAC RESYNCHRONIZATIO",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200408"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000068",
+   "model": "CAPSUREFIX NOVUS LEAD MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '188969913', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '188969914', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT APPROXIMATELY SIX WEEKS POST IMPLANT, THE RIG",
+   "firm": "MPRI",
+   "date": "20200423"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000069",
+   "model": "COAGUCHEK ® XS SYSTEM",
+   "problem": "[{'mdr_text_key': '218020647', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': \"THE REPORTER'S PRODUCT WAS REQUESTED FOR INVESTIGATION AND REPLACEMENT PRODUCT WAS SENT TO THE REPORTER. THE PRODUCT HAS NOT BEEN RECEIVED AT THIS TIME. IF THE PRODUCT IS RETURNED IN THE FUTURE, A FOLLOW UP REPORT WILL BE SUBMITTED. ROUTINE RETENTION TESTING IS PERFORMED. ",
+   "firm": "ROCHE DIAGNOSTICS",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000007",
+   "model": "MARLEX PATCH WITH BARD PERFIX PLUG",
+   "problem": "[{'mdr_text_key': '20618755', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'INTRACTABLE PAIN FOLLOWING RIGHT INGUINAL HERNIA REPAIR WITH EXTRA LARGE MARLEX PATCH AND A BARD PERFIX PLUG. DEBILITATING RIGHT GROIN PAIN ALONG THE INGUINAL LIGAMENT UP TOWARD THE ANTERIOR SUPERIOR ILIAC SPINE. PAIN RADIATES FROM THE ANTERIOR SUPERIOR ILIAC SPINE INTO THE S",
+   "firm": "C. R. BARD INC. / DAVOL INC.",
+   "date": "20050630"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000070",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330248344', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20190901"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000071",
+   "model": "630G INSULIN PUMP MMT-1715KL 630G",
+   "problem": "[{'mdr_text_key': '330248083', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0955-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200309"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000072",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '192395746', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'PUMP RECEIVED WITH BLANK DISPLAY DUE TO MOISTURE DAMAGE ON ELECTRONICS ASSEMBLY. (B)(4).'}, {'mdr_text_key': '192395747', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'INFORMATION RECEIVED BY MEDTRONIC INDICATED THAT INSULIN ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200306"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000073",
+   "model": "FREESTYLE LITE",
+   "problem": "[{'mdr_text_key': '189222620', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'AN EXTENDED INVESTIGATION HAS BEEN CONDUCTED, WHICH INVOLVED A MANUFACTURING REVIEW (INCLUDING 5 YEARS OF DEVICE HISTORY RECORDS (DHRS), PREVIOUS COMPLAINT AND CORRECTIVE AND PREVENTIVE ACTION (CAPA) INVESTIGATIONS CONDUCTED FOR BLANK SCREEN ISSUES,\\xa0PROCESS FAILURE MODE",
+   "firm": "ABBOTT DIABETES CARE INC",
+   "date": "20200413"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000074",
+   "model": "640G INSULIN PUMP MMT-1711K",
+   "problem": "[{'mdr_text_key': '189032611', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE PUMP WAS RECEIVED WITH A CRACKED CASE (BATTERY TUBE), CRACKED BATTERY TUBE THREADS, BROKEN RESERVOIR TUBE LIP, MISSING RETAINER AND MISSING RESERVOIR TUBE O-RING. UNIT P-CAP / TEST RESERVOIR DOES NOT LOCK IN PLACE PROPERLY AND UNABLE TO PERFORM THE DISPLACEMENT TEST DU",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20191130"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000075",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '330259157', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0955-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200213"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000076",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '192390013', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER, MISSING RESERVOIR TUBE O-RING AND BROKEN RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST OR LOCK RESERVOIR IN PLACE DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '192390014', 'text_type_code': 'Description of Event or Pro",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200306"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000077",
+   "model": "640G INSULIN PUMP MMT-1711K",
+   "problem": "[{'mdr_text_key': '330666751', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0958-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20191003"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000078",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188976994', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('3 YEARS LATER AND LITERALLY EVERYTHING') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT ",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000079",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188976087', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('I HAD MINE YESTERDAY') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT UNDERWENT MEDICAL ",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000008",
+   "model": "THERMACARE BACK AND HIP",
+   "problem": "[{'mdr_text_key': '16108002', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'WHILE ON A TRIP, I BEGAN HAVING LOWER BACK PROBLEMS WHILE IN OUR CAR. WHEN WE GOT TO THE CITY AND MET UP WITH FAMILY, WE BEGAN A WALKING TOUR. MY BACK WAS REALLY BOTHERING ME, SO I BEGAN USING THERMACARE FOR BACK WRAP. I HAVE USED IT BEFORE BUT NOT USUALLY WHEN IT IS SO HOT O",
+   "firm": "PROCTER & GAMBLE",
+   "date": "20070814"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000080",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '194191899', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'I DID LAST FEW MONTHS BEFORE REMOVAL\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000081",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188978532', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF FIBROMYALGIA (\\'I HAVE FIBROMYALGIA\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE IN",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000082",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '320222713', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF DEVICE DISLOCATION ('LOST IN ABDOMEN') IN AN ADULT FEMALE PATIENT WHO HAD ESSURE (BATCH NO. 752413) INSERTED FOR FEMALE STERILISATION. THE PATIENT'S MEDICAL HISTORY INCLUDED BACK PAIN AND HIP FR",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000083",
+   "model": "HEART START XL",
+   "problem": "[{'mdr_text_key': '189243965', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED TO PHILIPS THAT THE DEVICE WAS NOT HOLDING A CHARGE. NO PATIENT INVOLVEMENT.'}]",
+   "firm": "PHILIPS MEDICAL SYSTEMS",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000084",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '320159770', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'ESSURE REMOVED\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. OTHER PRODUCT OR PRODUCT USE ISSUES ID",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000085",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '193270372', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'DEVICE HAD A MISSING RETAINER AND MISSING RESERVOIR TUBE O-RING. TH P-CAP DOES NOT LOCK IN PLACE DUE TO MISSING RETAINER. UNABLE TO PERFORM THE DISPLACEMENT TEST, DELIVERY ACCURACY TEST AND OCCLUSION TEST DUE TO MISSING RETAINER. DEVICE PASSED FUNCTIONAL TESTING INCLUDING ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20191121"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000086",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '192160852', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'PUMP WAS RECEIVED WITH MISSING RESERVOIR RETAINER. THE P-CAP DOES NOT LOCK PROPERLY INTO PLACE. UNABLE TO PERFORM DISPLACEMENT TEST AND RESERVOIR UNABLE TO LOCK INTO PLACE DUE TO MISSING RESERVOIR RETAINER. (B)(4).'}, {'mdr_text_key': '192160853', 'text_type_code': 'Descri",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200311"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000087",
+   "model": "NI",
+   "problem": "[{'mdr_text_key': '190158755', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE REPORTED PRODUCT WAS A PRISMAFLEX SET. (B)(6). THE DEVICE WAS NOT RETURNED AND THE LOT NUMBER IS UNKNOWN; THEREFORE, A DEVICE ANALYSIS COULD NOT BE COMPLETED. SHOULD ADDITIONAL RELEVANT INFORMATION BECOME AVAILABLE, A SUPPLEMENTAL REPORT WILL BE SUBMITTED.'}, {'mdr_tex",
+   "firm": "BAXTER HEALTHCARE - MEYZIEU",
+   "date": "20200404"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000088",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189190373', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. UNIT RECEIVED WITH CRACKED CASE ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200310"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000089",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189053077', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM DISPLACEMENT TEST DUE TO MISSING RETAINER. THE P-CAP DOES NOT LOCK PROPERLY DUE TO MISSING RETAINER. UNIT RECEIVED WITH CRACKED CASE (BATTERY TUBE). (B)(4).'}, {'mdr_text_key': '189053078', 'text_type_code': 'Description of Event or Problem', 'patient_seq",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200311"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000009",
+   "model": "SLIP-CATH BEACON TIP CATHETER",
+   "problem": "[{'mdr_text_key': '788212', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"PROCEDURE: IVC FILTER PLACEMENT. THE SLIP-CATH BEACON TIP CATHETER INADVERTENTLY PASSED THROUGH THE INTERNAL JUGULAR INTO THE RIGHT SUBCLAVIAN ARTERY. PT HAD A HIGH INR WHICH INCREASED THE PT'S POTENTIAL FOR BLEEDING UPON REMOVAL OF THE SLIP-CATH BEACON TIP CATHETER. THEREFORE,",
+   "firm": "COOK INC.",
+   "date": "20080128"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000090",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '263445531', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM DISPLACEMENT TEST DUE TO DETACHED RETAINER AND MISSING RESERVOIR TUBE O-RING. TEST RESERVOIR DOES NOT LOCK PROPERLY INSIDE THE RESERVOIR TUBE DUE TO DETACHED RETAINER.'}, {'mdr_text_key': '189051325', 'text_type_code': 'Additional Manufacturer Narrative',",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000091",
+   "model": "PUMP MMT-1715KM 630G 3ML BLACK MEDI",
+   "problem": "[{'mdr_text_key': '189032755', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'THE PUMP WAS RECEIVED WITH A BROKEN BELT CLIP RAILS, CRACKED CASE (BATTERY TUBE), CRACKED BATTERY TUBE THREADS, BROKEN RESERVOIR TUBE LIP, MISSING RETAINER AND MISSING RESERVOIR TUBE O-RING. UNIT P-CAP / TEST RESERVOIR DOES NOT LOCK IN PLACE PROPERLY AND UNABLE TO PERFORM ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200305"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000092",
+   "model": "TPRLC 133 T1 PPS HO 15X150MM 0MM T1",
+   "problem": "[{'mdr_text_key': '315966674', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS FOLLOW-UP REPORT IS BEING SUBMITTED TO RELAY ADDITIONAL INFORMATION. D4: UDI#: (B)(4). THE FOLLOWING SECTIONS WERE UPDATED/CORRECTED UPDATED: B4, B5, D4, G4, G7, H2, H3, H4, H6, H10. EVALUATION OF THE RETURNED PRODUCT CONFIRMED THE STERILE PACKAGING (BLISTER AND FOAM)",
+   "firm": "ZIMMER BIOMET, INC.",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000093",
+   "model": "TPRLC 133 T1 PPS SO 17X154MM T1",
+   "problem": "[{'mdr_text_key': '315966458', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '0', 'text': 'UPON INVESTIGATION, IT HAS BEEN DETERMINED THAT THE DEBRIS IN THE STERILE PACKAGING DID NOT COMPROMISE STERILITY. EVENT IS NO LONGER CONSIDERED REPORTABLE, AND INITIAL REPORT SHOULD BE VOIDED.'}, {'mdr_text_key': '315966459', 'text_type_code': 'Additional Manufacturer Narrat",
+   "firm": "ZIMMER BIOMET, INC.",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000094",
+   "model": "CAPSUREFIX NOVUS LEAD MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '190437333', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189055709', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT ",
+   "firm": "MPRI",
+   "date": "20200416"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000095",
+   "model": "630G INSULIN PUMP MMT-1715K 630G BLACK MG",
+   "problem": "[{'mdr_text_key': '329686868', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0955-2020. MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20191128"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000096",
+   "model": "TPRLC 133 MP TYPE1 PPS SO 16.0 1",
+   "problem": "[{'mdr_text_key': '315966996', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '0', 'text': 'UPON INVESTIGATION, IT HAS BEEN DETERMINED THAT THE DEBRIS IN THE STERILE PACKAGING DID NOT COMPROMISE STERILITY. EVENT IS NO LONGER CONSIDERED REPORTABLE, AND INITIAL REPORT SHOULD BE VOIDED.'}, {'mdr_text_key': '315966997', 'text_type_code': 'Additional Manufacturer Narrat",
+   "firm": "ZIMMER BIOMET, INC.",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000097",
+   "model": "DUAL CHAMBER TEMPORARY PACEMAKER",
+   "problem": "[{'mdr_text_key': '188978852', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'PRODUCT ANALYSIS: THE ANALYSIS WAS ABLE TO CONFIRM THE CUSTOMER COMMENT OF THE EXTERNAL PULSE GENERATOR (EPG), ATRIAL SENSE LED WAS GREEN. THE ATRIAL SENSE LED COLOUR FAILED THE INCOMING TEST, THE LED IS GREEN INSTEAD OF BLUE, THE MAIN SEAL IS DAMAGED. IT WAS ALSO DETERMIN",
+   "firm": "PLEXUS MANUFACTURING SDN. BHD",
+   "date": "20200402"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000098",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '192058061', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM DISPLACEMENT TEST DUE TO DETACHED RETAINER AND MISSING RESERVOIR TUBE O-RING. TEST RESERVOIR DOES NOT LOCK PROPERLY INSIDE THE RESERVOIR TUBE DUE TO DETACHED RETAINER. INSULIN PUMP RECEIVED WITH CRACKED CASE CORNER OF THE BELT CLIP RAILS NEAR THE BATTERY ",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20191210"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000099",
+   "model": "PARADIGM REAL-TIME REVEL INSULIN INFUSION PUMP",
+   "problem": "[{'mdr_text_key': '189190850', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. NO CONCLUSION CAN BE DRAWN AT THIS TIME. WE THEREFORE CONSIDER THIS REPORT COMPLETE TO THE BEST OF OUR KNOWLEDGE.'}, {'mdr_text_key': '189190851',",
+   "firm": "MEDTRONIC MINIMED",
+   "date": "20200421"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:100001",
+   "model": "FOGARTY ARTERIAL EMBOLECTOMY CATHETER",
+   "problem": "[{'mdr_text_key': '15033740', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'WHEN CATHETER WAS REMOVED FROM THE ARTERY, AFTER THE THIRD PASS, THE BALLOON AND SPRING TIP WERE MISSING. UNABLE TO RETRIEVE. THERE WERE NO PT COMPLICATIONS OR INJURY.'}]",
+   "firm": "BAXTER HEALTHCARE CORP.",
+   "date": "19970320"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000010",
+   "model": "ULTIMED",
+   "problem": "[{'mdr_text_key': '21634380', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'PT STATES ULTI-MED 0.5ML LOW DOSE INSULIN SYRINGE IS DEFECTIVE. PT STATES THE INCREMENTS ON THE SYRINGE CLOSEST TO THE NEEDLE ARE INCORRECT BECAUSE THE FIRST LINE IS VERY CLOSE TO THE NEEDLE. HE SOMETIMES USES LOW DOSES OF INSULIN - 3 OR 4 UNITS - AND FEELS THAT THE MEASUREME",
+   "firm": "ULTI-MED, INC.",
+   "date": "20080206"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000100",
+   "model": "AZURE S DR MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '188976370', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '188976371', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT APPROXIMATELY TWO WEEKS POST IMPLANT THE PATI",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200316"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000101",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189036986', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189036987', 'text_type_code': 'Description of Event or Problem', '",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200308"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000102",
+   "model": "CAPSURE FIX MRI",
+   "problem": "[{'mdr_text_key': '188974704', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '188974705', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT APPROXIMATELY TWO WEEKS POST IMPLANT THE PATI",
+   "firm": "MPRI",
+   "date": "20200316"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000103",
+   "model": "THERANOVA 400",
+   "problem": "[{'mdr_text_key': '189495871', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'INITIAL REPORTER FACILITY NAME: (B)(6). INITIAL REPORTER PHONE NUMBER: (B)(6). A BATCH REVIEW WAS CONDUCTED AND THERE WERE NO DEVIATIONS FOUND RELATED TO THIS REPORTED CONDITION DURING THE MANUFACTURE OF THIS LOT. THE DEVICE WAS NOT RECEIVED FOR EVALUATION; THEREFORE, A DE",
+   "firm": "BAXTER HEALTHCARE - HECHINGEN BADEN DIALYZER",
+   "date": "20200404"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000104",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189032958', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM DISPLACEMENT TEST DUE TO MISSING RETAINER. THE P-CAP DOES NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189032959', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'INFORMATION RECEIVE",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200311"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000105",
+   "model": "CAPSURE FIX MRI",
+   "problem": "[{'mdr_text_key': '188974968', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '188974969', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT APPROXIMATELY TWO WEEKS POST IMPLANT THE PATI",
+   "firm": "MPRI",
+   "date": "20200316"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000106",
+   "model": "CAPSURE FIX MRI",
+   "problem": "[{'mdr_text_key': '189075143', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189075144', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT AN ALERT WAS NOTED FOR UNDEFINED HIGH IMPEDAN",
+   "firm": "MEDTRONIC SINGAPORE OPERATIONS",
+   "date": "20191126"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000107",
+   "model": "SELECTSECURE MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '189057367', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189057368', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT THE RIGHT VENTRICULAR (RV) LEAD EXHIBITED INT",
+   "firm": "MPRI",
+   "date": "20200406"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000108",
+   "model": "640G INSULIN PUMP MMT-1711K",
+   "problem": "[{'mdr_text_key': '189040432', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). THE INSULIN PUMP INVOLVED IN THIS EVENT IS THE 640G INSULIN INFUSION PUMP, WHICH IS NOT MARKETED IN THE UNITED STATES. HOWEVER, THE DEVICE IS SIMILAR TO THE PARADIGM REAL-TIME INSULIN INFUSION PUMP, WHICH IS MARKETED IN THE UNITED STATES. CURRENTLY IT IS UNKNOWN WH",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200422"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000109",
+   "model": "CAPSUREFIX NOVUS LEAD MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '188975033', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '188975034', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT POST OPERATIVELY THE RIGHT ATRIAL (RA) LEAD E",
+   "firm": "MPRI",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000011",
+   "model": "LIKO",
+   "problem": "[{'mdr_text_key': '788227', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'TWO NURSE AIDES WERE TRANSFERRING A RESIDENT FROM SHOWER CHAIR TO BED. THEY LIFTED HIM COMPLETELY OUT OF THE CHAIR, REMOVED THE CHAIR AND THE LIFT ARM IMMEDIATELY \"GAVE WAY\" AND THE RESIDENT FELL APPROXIMATELY 36\" TO 40\" ONTO THE FLOOR.'}]",
+   "firm": "LIKO NORTH AMERICA",
+   "date": "20080208"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000110",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '330034711', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS REPORT IS PART OF A RETROSPECTIVE REVIEW AND REMEDIATION EFFORTS IN RESPONSE TO A WARNING LETTER. UPDATED H9: Z-0956-2020 MEDTRONIC, INC. (MEDTRONIC) IS SUBMITTING THIS REPORT TO COMPLY WITH 21 C.F.R. PART 803, THE MEDICAL DEVICE REPORTING REGULATION. THIS REPORT IS B",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200215"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000111",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189198791', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(B)(4). CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. NO CONCLUSION CAN BE DRAWN AT THIS TIME. WE THEREFORE CONSIDER THIS REPORT COMPLETE TO THE BEST OF OUR KNOWLEDGE.'}, {'mdr_text_key': '189",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200421"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000112",
+   "model": "670G INSULIN PUMP MMT-1780KL",
+   "problem": "[{'mdr_text_key': '189040010', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH PARTIALLY BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP, RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_k",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200311"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000113",
+   "model": "CAPSURE FIX MRI",
+   "problem": "[{'mdr_text_key': '189073940', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189073941', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT HIGH THRESHOLDS WERE NOTED ON THE RIGHT VENTR",
+   "firm": "MEDTRONIC SINGAPORE OPERATIONS",
+   "date": "20200406"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000114",
+   "model": "640G INSULIN PUMP MMT-1712K",
+   "problem": "[{'mdr_text_key': '189037493', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM THE DISPLACEMENT TEST AND THE P-CAP/RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. UNIT RECEIVED WITH MISSING RESERVOIR TUBE O-RING, CRACKED BATTERY TUBE THREADS, BROKEN RESERVOIR TUBE LIP, FADING SERIAL NUMBER LABEL AND CRACKED CASE AT BATTERY",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20191112"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000115",
+   "model": "ADAPTA",
+   "problem": "[{'mdr_text_key': '189193333', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189193334', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED BY THE PATIENT THAT THEY FELT \"A LITTLE FUNNY\" AND",
+   "firm": "MEDTRONIC MED REL MEDTRONIC PUERTO RICO",
+   "date": "20200407"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000116",
+   "model": "CAPSURE EPICARDIAL LEAD",
+   "problem": "[{'mdr_text_key': '189709751', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189709752', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT THE PATIENT EXPERIENCED CHEST PAIN. THE RIGHT",
+   "firm": "MEDTRONIC, INC.",
+   "date": "20190608"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000117",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189051002', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'PUMP WAS RECEIVED WITH A MISSING RETAINER, MISSING RESERVOIR TUBE O-RING AND BROKEN RESERVOIR TUBE LIP. THE TEST RESERVOIR DOES NOT LOCK IN PLACE AND UNABLE TO PERFORM THE DISPLACEMENT TEST DUE TO MISSING RETAINER, MISSING RESERVOIR TUBE O-RING AND BROKEN RESERVOIR TUBE LI",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200212"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000118",
+   "model": "PARADIGM REAL-TIME REVEL INSULIN INFUSION PUMP",
+   "problem": "[{'mdr_text_key': '189046498', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'CURRENTLY IT IS UNKNOWN WHETHER OR NOT THE DEVICE MAY HAVE CAUSED OR CONTRIBUTED TO THE EVENT AS NO PRODUCT HAS BEEN RETURNED. NO CONCLUSION CAN BE DRAWN AT THIS TIME. WE THEREFORE CONSIDER THIS REPORT COMPLETE TO THE BEST OF OUR KNOWLEDGE.'}, {'mdr_text_key': '189046499',",
+   "firm": "MEDTRONIC MINIMED",
+   "date": "20200421"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000119",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189040721', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNIT RECEIVED WITH MISSING RETAINER RING AND RESERVOIR TUBE LIP O-RING. UNIT RECEIVED WITH BROKEN OFF PIECE AT THE RESERVOIR TUBE LIP. UNABLE TO PERFORM DISPLACEMENT TEST AND P-CAP / RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200312"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000012",
+   "model": "*",
+   "problem": "[{'mdr_text_key': '19342696', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IMPROVEMENTS TO INCREASE THE ROBUSTNESS OF THE HYDRAULIC CONNECTIONS HAVE BEEN DESIGNED AND VALIDATED AND ARE CURRENTLY BEING INTRODUCED IN THE FIELD TO AVOID THE OCCURRENCE OF TUBING DISCONNECTION.'}]",
+   "firm": "*",
+   "date": "20071219"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000120",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '320497180', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('EVICTION') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT UNDERWENT MEDICAL DEVICE REM",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000121",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188977668', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'MEDICAL DEVICE REMOVAL\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE PATIENT ",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000122",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188977035', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('HYSTERECTOMY') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT UNDERWENT MEDICAL DEVICE R",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000123",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188979249', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF DEVICE DISLOCATION ('THEY ARE BOTH IN THE TUBES, ONE IS PROTRUDING OUT A LITTLE') IN A (B)(6) FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNK",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000124",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '194201344', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS CASE WAS INITIALLY RECEIVED VIA REGULATORY AUTHORITY (FDA, REFERENCE NUMBER: (B)(4) ON (B)(6) 2015. THE MOST RECENT INFORMATION WAS RECEIVED ON (B)(6) 2020. THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'HYSTEREC",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000125",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188979555', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'RESTLESS LEG. I\\'M 2 WEEKS POST REMOVAL.\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN ",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000126",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '188975244', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('I HAVE MY CERVIX AND BOTH OVARIES LEFT.') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000127",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '318087179', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A CONSUMER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'EVERYTHING REMOVED EXCEPT OVARIES\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DAT",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000128",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '316111543', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': \"THIS SPONTANEOUS CASE DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('SHE HAD SURGERY ON (B)(6) 2015') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT UNDERWENT MEDICAL DEVICE REMOVAL (S",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000129",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '193670134', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF BACK PAIN (\\'WORST LOWER BACK PAIN\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INS",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000013",
+   "model": "BARD COMPOSIX KUGEL MESH PATCH",
+   "problem": "[{'mdr_text_key': '16171889', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THE INTENT OF THIS FORM IS TO HAVE PRODUCT CODE 0010201 AND LOT NUMBER 43 EMD237 INCLUDED IN THE MANDATORY RECALL OF BARD COMPOSIX KUGEL MESH. FOLLOWING IS AN EXPLANATION OF THE HISTORY FOR THIS REQUEST. DESCRIBED FIRST IS HOW I LEARNED OF THE RECALL. WHILE VISITING MY MOTHER",
+   "firm": "C.R. BARD, INC.",
+   "date": "20020827"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000130",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '316111563', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MENORRHAGIA (\\'AWFUL PERIOD\\') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000131",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '320121411', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS CASE WAS INITIALLY RECEIVED VIA REGULATORY AUTHORITY (REFERENCE NUMBER: MW5044397) ON 12-OCT-2015. THE MOST RECENT INFORMATION WAS RECEIVED ON 22-JUN-2020. THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF GENITAL HAEMORRHAGE (\\'HEAVY BLEE",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000132",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '190489043', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'FORTUNSTE TO ET THEM REMOVED THIS PAST (B)(6)) IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNO",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000133",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '321953104', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF PELVIC PAIN (\\'WAS IN PAIN FOR A YEAR AND A HALF / PAIN\\') IN AN ADULT FEMALE PATIENT WHO HAD ESSURE (BATCH NO. 740665) INSERTED FOR FEMALE STERILISATION. THE OCCURRENCE OF ADDITIONAL NON-SERIOU",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000134",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189045694', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'UNABLE TO PERFORM THE DISPLACEMENT TEST AND THE P-CAP/RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. UNIT RECEIVED WITH MISSING RESERVOIR TUBE O-RING, BROKEN RESERVOIR TUBE LIP, MISSING DISPLAY WINDOW COVER, FADING SERIAL NUMBER LABEL AND BROKEN BELT CLIP RAILS.",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200228"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000135",
+   "model": "CAPSUREFIX NOVUS MRI SURESCAN",
+   "problem": "[{'mdr_text_key': '189154534', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'IF INFORMATION IS PROVIDED IN THE FUTURE, A SUPPLEMENTAL REPORT WILL BE ISSUED.'}, {'mdr_text_key': '189154535', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'IT WAS REPORTED THAT THE RIGHT ATRIAL (RA) LEAD EXHIBITED LOW IMPE",
+   "firm": "MPRI",
+   "date": "20200307"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000136",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '190490283', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL ('17 DAYS POST OP') IN A FEMALE PATIENT WHO HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT HAD ESSURE INSERTED. ON AN UNKNOWN DATE, THE PATIENT UNDERWENT MEDICAL DEVIC",
+   "firm": "BAYER PHARMA AG",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000137",
+   "model": "ESSURE",
+   "problem": "[{'mdr_text_key': '190490453', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': 'THIS SPONTANEOUS CASE WAS REPORTED BY A LAWYER AND DESCRIBES THE OCCURRENCE OF MEDICAL DEVICE REMOVAL (\\'HYSTERECTOMY\\') IN AN ADULT FEMALE PATIENT WHO HAD ESSURE INSERTED. THE OCCURRENCE OF ADDITIONAL NON-SERIOUS EVENTS IS DETAILED BELOW. ON AN UNKNOWN DATE, THE PATIENT HAD",
+   "firm": "BAYER PHARMA AG",
+   "date": "20110101"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000138",
+   "model": "PHYSIOMESH 15X15Q",
+   "problem": "[{'mdr_text_key': '316864944', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '0', 'text': 'DATE SENT TO FDA: 05/01/2020. A REVIEW OF THE BATCH MANUFACTURING RECORDS WAS CONDUCTED AND THE BATCH MET ALL FINISHED GOODS RELEASE CRITERIA.'}, {'mdr_text_key': '189997145', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': '(",
+   "firm": "ETHICON INC.",
+   "date": "20200427"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:10000139",
+   "model": "PUMP MMT-1780KPK 670G PATHWAY BLACK MG",
+   "problem": "[{'mdr_text_key': '189043738', 'text_type_code': 'Additional Manufacturer Narrative', 'patient_sequence_number': '1', 'text': 'PUMP RECEIVED WITH MISSING RETAINER AND RESERVOIR TUBE O-RING. PUMP RECEIVED WITH PARTIALLY BROKEN RESERVOIR TUBE LIP. UNABLE TO PERFORM THE DISPLACEMENT TEST AND P-CAP, RESERVOIR WILL NOT LOCK PROPERLY DUE TO MISSING RETAINER. (B)(4).'}, {'mdr_text_key': '189043739', 'tex",
+   "firm": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+   "date": "20200312"
+  },
+  {
+   "source": "device_event",
+   "record_id": "device_event:1000014",
+   "model": "MEDTRONIC",
+   "problem": "[{'mdr_text_key': '18221888', 'text_type_code': 'Description of Event or Problem', 'patient_sequence_number': '1', 'text': \"HAVE IRREGULAR HEART RHYTHMS - HAD PACER REPLACED DUE TO LOW BATTERY, STILL HAVING SYMPTOMS WHICH DATE BACK TO 2000. I RECENTLY HAD PACEMAKER REPLACED, DUE TO LOW BATTERY, AND IRREGULAR HEART RHYTHMS BY DR. HE MENTIONED THE PACER LED TO THE HEART COULD BE FRACTURED OR CRACKED",
+   "firm": "MEDTRONIC INC.",
+   "date": "20070919"
+  }
+ ]
+}

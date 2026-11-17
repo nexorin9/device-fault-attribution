@@ -1,0 +1,13 @@
+[package]
+name = "dfa-config"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "医疗设备故障归因系统 · dfa-config 模块"
+
+[dependencies]
+serde.workspace = true
+toml.workspace = true
+thiserror.workspace = true
+dfa-core.workspace = true

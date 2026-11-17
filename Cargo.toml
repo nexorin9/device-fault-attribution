@@ -1,0 +1,50 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/dfa-core",
+    "crates/dfa-config",
+    "crates/dfa-store",
+    "crates/dfa-ingest",
+    "crates/dfa-registry",
+    "crates/dfa-cluster",
+    "crates/dfa-attribution",
+    "crates/dfa-model",
+    "crates/dfa-workorder",
+    "crates/dfa-desktop",
+    "crates/dfa-cli",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+license = "MIT"
+
+[workspace.dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+toml = "0.8"
+sha2 = "0.10"
+thiserror = "1"
+chrono = { version = "0.4", features = ["serde"] }
+regex = "1"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls", "blocking"] }
+rusqlite = { version = "0.32", features = ["bundled"] }
+clap = { version = "4", features = ["derive"] }
+# 原生窗口与托盘仅在 `--features native` 下编译（自动化验证环境无显示服务）。
+egui = "0.32"
+eframe = "0.32"
+tray-icon = "0.19"
+tempfile = "3"
+
+dfa-core = { path = "crates/dfa-core" }
+dfa-config = { path = "crates/dfa-config" }
+dfa-store = { path = "crates/dfa-store" }
+dfa-ingest = { path = "crates/dfa-ingest" }
+dfa-registry = { path = "crates/dfa-registry" }
+dfa-cluster = { path = "crates/dfa-cluster" }
+dfa-attribution = { path = "crates/dfa-attribution" }
+dfa-model = { path = "crates/dfa-model" }
+dfa-workorder = { path = "crates/dfa-workorder" }
+dfa-desktop = { path = "crates/dfa-desktop" }
+dfa-cli = { path = "crates/dfa-cli" }
